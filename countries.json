@@ -112,7 +112,7 @@
     "currency": "JMD"
   },
   {
-    "name": "",
+    "name": "Bouvet Island",
     "countryCode": "BV",
     "countryISOCode": "BVT",
     "dialCode": "+",
@@ -133,7 +133,7 @@
     "currency": "WST"
   },
   {
-    "name": "",
+    "name": "Bonaire, Sint Eustatius and Saba",
     "countryCode": "BQ",
     "countryISOCode": "BES",
     "dialCode": "+599",
@@ -231,7 +231,7 @@
     "currency": "RON"
   },
   {
-    "name": "",
+    "name": "Tokelau",
     "countryCode": "TK",
     "countryISOCode": "TKL",
     "dialCode": "+690",
@@ -441,7 +441,7 @@
     "currency": "HNL"
   },
   {
-    "name": "",
+    "name": "Heard Island and McDonald Islands",
     "countryCode": "HM",
     "countryISOCode": "HMD",
     "dialCode": "+ ",
@@ -1407,7 +1407,7 @@
     "currency": "EUR"
   },
   {
-    "name": "",
+    "name": "United States Minor Outlying Islands",
     "countryCode": "UM",
     "countryISOCode": "UMI",
     "dialCode": "+1",
@@ -1652,7 +1652,7 @@
     "currency": "AOA"
   },
   {
-    "name": "",
+    "name": "Antarctica",
     "countryCode": "AQ",
     "countryISOCode": "ATA",
     "dialCode": "+",
