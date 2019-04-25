@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Dhaka",
+    "countryCode": "BD",
+    "countryISOCode": "BGD",
+    "dialCode": "+880",
+    "currency": "BDT"
+  },
+  {
+    "name": "Brussels",
+    "countryCode": "BE",
+    "countryISOCode": "BEL",
+    "dialCode": "+32",
+    "currency": "EUR"
+  },
+  {
+    "name": "Ouagadougou",
+    "countryCode": "BF",
+    "countryISOCode": "BFA",
+    "dialCode": "+226",
+    "currency": "XOF"
+  },
+  {
+    "name": "Sofia",
+    "countryCode": "BG",
+    "countryISOCode": "BGR",
+    "dialCode": "+359",
+    "currency": "BGN"
+  },
+  {
+    "name": "Sarajevo",
+    "countryCode": "BA",
+    "countryISOCode": "BIH",
+    "dialCode": "+387",
+    "currency": "BAM"
+  },
+  {
+    "name": "Bridgetown",
+    "countryCode": "BB",
+    "countryISOCode": "BRB",
+    "dialCode": "++1-246",
+    "currency": "BBD"
+  },
+  {
+    "name": "Mata Utu",
+    "countryCode": "WF",
+    "countryISOCode": "WLF",
+    "dialCode": "+681",
+    "currency": "XPF"
+  },
+  {
+    "name": "Gustavia",
+    "countryCode": "BL",
+    "countryISOCode": "BLM",
+    "dialCode": "+590",
+    "currency": "EUR"
+  },
+  {
+    "name": "Hamilton",
+    "countryCode": "BM",
+    "countryISOCode": "BMU",
+    "dialCode": "++1-441",
+    "currency": "BMD"
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "countryCode": "BN",
+    "countryISOCode": "BRN",
+    "dialCode": "+673",
+    "currency": "BND"
+  },
+  {
+    "name": "Sucre",
+    "countryCode": "BO",
+    "countryISOCode": "BOL",
+    "dialCode": "+591",
+    "currency": "BOB"
+  },
+  {
+    "name": "Manama",
+    "countryCode": "BH",
+    "countryISOCode": "BHR",
+    "dialCode": "+973",
+    "currency": "BHD"
+  },
+  {
+    "name": "Bujumbura",
+    "countryCode": "BI",
+    "countryISOCode": "BDI",
+    "dialCode": "+257",
+    "currency": "BIF"
+  },
+  {
+    "name": "Porto-Novo",
+    "countryCode": "BJ",
+    "countryISOCode": "BEN",
+    "dialCode": "+229",
+    "currency": "XOF"
+  },
+  {
+    "name": "Thimphu",
+    "countryCode": "BT",
+    "countryISOCode": "BTN",
+    "dialCode": "+975",
+    "currency": "BTN"
+  },
+  {
+    "name": "Kingston",
+    "countryCode": "JM",
+    "countryISOCode": "JAM",
+    "dialCode": "++1-876",
+    "currency": "JMD"
+  },
+  {
+    "name": "",
+    "countryCode": "BV",
+    "countryISOCode": "BVT",
+    "dialCode": "+",
+    "currency": "NOK"
+  },
+  {
+    "name": "Gaborone",
+    "countryCode": "BW",
+    "countryISOCode": "BWA",
+    "dialCode": "+267",
+    "currency": "BWP"
+  },
+  {
+    "name": "Apia",
+    "countryCode": "WS",
+    "countryISOCode": "WSM",
+    "dialCode": "+685",
+    "currency": "WST"
+  },
+  {
+    "name": "",
+    "countryCode": "BQ",
+    "countryISOCode": "BES",
+    "dialCode": "+599",
+    "currency": "USD"
+  },
+  {
+    "name": "Brasilia",
+    "countryCode": "BR",
+    "countryISOCode": "BRA",
+    "dialCode": "+55",
+    "currency": "BRL"
+  },
+  {
+    "name": "Nassau",
+    "countryCode": "BS",
+    "countryISOCode": "BHS",
+    "dialCode": "++1-242",
+    "currency": "BSD"
+  },
+  {
+    "name": "Saint Helier",
+    "countryCode": "JE",
+    "countryISOCode": "JEY",
+    "dialCode": "++44-1534",
+    "currency": "GBP"
+  },
+  {
+    "name": "Minsk",
+    "countryCode": "BY",
+    "countryISOCode": "BLR",
+    "dialCode": "+375",
+    "currency": "BYR"
+  },
+  {
+    "name": "Belmopan",
+    "countryCode": "BZ",
+    "countryISOCode": "BLZ",
+    "dialCode": "+501",
+    "currency": "BZD"
+  },
+  {
+    "name": "Moscow",
+    "countryCode": "RU",
+    "countryISOCode": "RUS",
+    "dialCode": "+7",
+    "currency": "RUB"
+  },
+  {
+    "name": "Kigali",
+    "countryCode": "RW",
+    "countryISOCode": "RWA",
+    "dialCode": "+250",
+    "currency": "RWF"
+  },
+  {
+    "name": "Belgrade",
+    "countryCode": "RS",
+    "countryISOCode": "SRB",
+    "dialCode": "+381",
+    "currency": "RSD"
+  },
+  {
+    "name": "Dili",
+    "countryCode": "TL",
+    "countryISOCode": "TLS",
+    "dialCode": "+670",
+    "currency": "USD"
+  },
+  {
+    "name": "Saint-Denis",
+    "countryCode": "RE",
+    "countryISOCode": "REU",
+    "dialCode": "+262",
+    "currency": "EUR"
+  },
+  {
+    "name": "Ashgabat",
+    "countryCode": "TM",
+    "countryISOCode": "TKM",
+    "dialCode": "+993",
+    "currency": "TMT"
+  },
+  {
+    "name": "Dushanbe",
+    "countryCode": "TJ",
+    "countryISOCode": "TJK",
+    "dialCode": "+992",
+    "currency": "TJS"
+  },
+  {
+    "name": "Bucharest",
+    "countryCode": "RO",
+    "countryISOCode": "ROU",
+    "dialCode": "+40",
+    "currency": "RON"
+  },
+  {
+    "name": "",
+    "countryCode": "TK",
+    "countryISOCode": "TKL",
+    "dialCode": "+690",
+    "currency": "NZD"
+  },
+  {
+    "name": "Bissau",
+    "countryCode": "GW",
+    "countryISOCode": "GNB",
+    "dialCode": "+245",
+    "currency": "XOF"
+  },
+  {
+    "name": "Hagatna",
+    "countryCode": "GU",
+    "countryISOCode": "GUM",
+    "dialCode": "++1-671",
+    "currency": "USD"
+  },
+  {
+    "name": "Guatemala City",
+    "countryCode": "GT",
+    "countryISOCode": "GTM",
+    "dialCode": "+502",
+    "currency": "GTQ"
+  },
+  {
+    "name": "Grytviken",
+    "countryCode": "GS",
+    "countryISOCode": "SGS",
+    "dialCode": "+",
+    "currency": "GBP"
+  },
+  {
+    "name": "Athens",
+    "countryCode": "GR",
+    "countryISOCode": "GRC",
+    "dialCode": "+30",
+    "currency": "EUR"
+  },
+  {
+    "name": "Malabo",
+    "countryCode": "GQ",
+    "countryISOCode": "GNQ",
+    "dialCode": "+240",
+    "currency": "XAF"
+  },
+  {
+    "name": "Basse-Terre",
+    "countryCode": "GP",
+    "countryISOCode": "GLP",
+    "dialCode": "+590",
+    "currency": "EUR"
+  },
+  {
+    "name": "Tokyo",
+    "countryCode": "JP",
+    "countryISOCode": "JPN",
+    "dialCode": "+81",
+    "currency": "JPY"
+  },
+  {
+    "name": "Georgetown",
+    "countryCode": "GY",
+    "countryISOCode": "GUY",
+    "dialCode": "+592",
+    "currency": "GYD"
+  },
+  {
+    "name": "St Peter Port",
+    "countryCode": "GG",
+    "countryISOCode": "GGY",
+    "dialCode": "++44-1481",
+    "currency": "GBP"
+  },
+  {
+    "name": "Cayenne",
+    "countryCode": "GF",
+    "countryISOCode": "GUF",
+    "dialCode": "+594",
+    "currency": "EUR"
+  },
+  {
+    "name": "Tbilisi",
+    "countryCode": "GE",
+    "countryISOCode": "GEO",
+    "dialCode": "+995",
+    "currency": "GEL"
+  },
+  {
+    "name": "St. George's",
+    "countryCode": "GD",
+    "countryISOCode": "GRD",
+    "dialCode": "++1-473",
+    "currency": "XCD"
+  },
+  {
+    "name": "London",
+    "countryCode": "GB",
+    "countryISOCode": "GBR",
+    "dialCode": "+44",
+    "currency": "GBP"
+  },
+  {
+    "name": "Libreville",
+    "countryCode": "GA",
+    "countryISOCode": "GAB",
+    "dialCode": "+241",
+    "currency": "XAF"
+  },
+  {
+    "name": "San Salvador",
+    "countryCode": "SV",
+    "countryISOCode": "SLV",
+    "dialCode": "+503",
+    "currency": "USD"
+  },
+  {
+    "name": "Conakry",
+    "countryCode": "GN",
+    "countryISOCode": "GIN",
+    "dialCode": "+224",
+    "currency": "GNF"
+  },
+  {
+    "name": "Banjul",
+    "countryCode": "GM",
+    "countryISOCode": "GMB",
+    "dialCode": "+220",
+    "currency": "GMD"
+  },
+  {
+    "name": "Nuuk",
+    "countryCode": "GL",
+    "countryISOCode": "GRL",
+    "dialCode": "+299",
+    "currency": "DKK"
+  },
+  {
+    "name": "Gibraltar",
+    "countryCode": "GI",
+    "countryISOCode": "GIB",
+    "dialCode": "+350",
+    "currency": "GIP"
+  },
+  {
+    "name": "Accra",
+    "countryCode": "GH",
+    "countryISOCode": "GHA",
+    "dialCode": "+233",
+    "currency": "GHS"
+  },
+  {
+    "name": "Muscat",
+    "countryCode": "OM",
+    "countryISOCode": "OMN",
+    "dialCode": "+968",
+    "currency": "OMR"
+  },
+  {
+    "name": "Tunis",
+    "countryCode": "TN",
+    "countryISOCode": "TUN",
+    "dialCode": "+216",
+    "currency": "TND"
+  },
+  {
+    "name": "Amman",
+    "countryCode": "JO",
+    "countryISOCode": "JOR",
+    "dialCode": "+962",
+    "currency": "JOD"
+  },
+  {
+    "name": "Zagreb",
+    "countryCode": "HR",
+    "countryISOCode": "HRV",
+    "dialCode": "+385",
+    "currency": "HRK"
+  },
+  {
+    "name": "Port-au-Prince",
+    "countryCode": "HT",
+    "countryISOCode": "HTI",
+    "dialCode": "+509",
+    "currency": "HTG"
+  },
+  {
+    "name": "Budapest",
+    "countryCode": "HU",
+    "countryISOCode": "HUN",
+    "dialCode": "+36",
+    "currency": "HUF"
+  },
+  {
+    "name": "Hong Kong",
+    "countryCode": "HK",
+    "countryISOCode": "HKG",
+    "dialCode": "+852",
+    "currency": "HKD"
+  },
+  {
+    "name": "Tegucigalpa",
+    "countryCode": "HN",
+    "countryISOCode": "HND",
+    "dialCode": "+504",
+    "currency": "HNL"
+  },
+  {
+    "name": "",
+    "countryCode": "HM",
+    "countryISOCode": "HMD",
+    "dialCode": "+ ",
+    "currency": "AUD"
+  },
+  {
+    "name": "Caracas",
+    "countryCode": "VE",
+    "countryISOCode": "VEN",
+    "dialCode": "+58",
+    "currency": "VEF"
+  },
+  {
+    "name": "San Juan",
+    "countryCode": "PR",
+    "countryISOCode": "PRI",
+    "dialCode": "++1-787 and 1-939",
+    "currency": "USD"
+  },
+  {
+    "name": "East Jerusalem",
+    "countryCode": "PS",
+    "countryISOCode": "PSE",
+    "dialCode": "+970",
+    "currency": "ILS"
+  },
+  {
+    "name": "Melekeok",
+    "countryCode": "PW",
+    "countryISOCode": "PLW",
+    "dialCode": "+680",
+    "currency": "USD"
+  },
+  {
+    "name": "Lisbon",
+    "countryCode": "PT",
+    "countryISOCode": "PRT",
+    "dialCode": "+351",
+    "currency": "EUR"
+  },
+  {
+    "name": "Longyearbyen",
+    "countryCode": "SJ",
+    "countryISOCode": "SJM",
+    "dialCode": "+47",
+    "currency": "NOK"
+  },
+  {
+    "name": "Asuncion",
+    "countryCode": "PY",
+    "countryISOCode": "PRY",
+    "dialCode": "+595",
+    "currency": "PYG"
+  },
+  {
+    "name": "Baghdad",
+    "countryCode": "IQ",
+    "countryISOCode": "IRQ",
+    "dialCode": "+964",
+    "currency": "IQD"
+  },
+  {
+    "name": "Panama City",
+    "countryCode": "PA",
+    "countryISOCode": "PAN",
+    "dialCode": "+507",
+    "currency": "PAB"
+  },
+  {
+    "name": "Papeete",
+    "countryCode": "PF",
+    "countryISOCode": "PYF",
+    "dialCode": "+689",
+    "currency": "XPF"
+  },
+  {
+    "name": "Port Moresby",
+    "countryCode": "PG",
+    "countryISOCode": "PNG",
+    "dialCode": "+675",
+    "currency": "PGK"
+  },
+  {
+    "name": "Lima",
+    "countryCode": "PE",
+    "countryISOCode": "PER",
+    "dialCode": "+51",
+    "currency": "PEN"
+  },
+  {
+    "name": "Islamabad",
+    "countryCode": "PK",
+    "countryISOCode": "PAK",
+    "dialCode": "+92",
+    "currency": "PKR"
+  },
+  {
+    "name": "Manila",
+    "countryCode": "PH",
+    "countryISOCode": "PHL",
+    "dialCode": "+63",
+    "currency": "PHP"
+  },
+  {
+    "name": "Adamstown",
+    "countryCode": "PN",
+    "countryISOCode": "PCN",
+    "dialCode": "+870",
+    "currency": "NZD"
+  },
+  {
+    "name": "Warsaw",
+    "countryCode": "PL",
+    "countryISOCode": "POL",
+    "dialCode": "+48",
+    "currency": "PLN"
+  },
+  {
+    "name": "Saint-Pierre",
+    "countryCode": "PM",
+    "countryISOCode": "SPM",
+    "dialCode": "+508",
+    "currency": "EUR"
+  },
+  {
+    "name": "Lusaka",
+    "countryCode": "ZM",
+    "countryISOCode": "ZMB",
+    "dialCode": "+260",
+    "currency": "ZMK"
+  },
+  {
+    "name": "El-Aaiun",
+    "countryCode": "EH",
+    "countryISOCode": "ESH",
+    "dialCode": "+212",
+    "currency": "MAD"
+  },
+  {
+    "name": "Tallinn",
+    "countryCode": "EE",
+    "countryISOCode": "EST",
+    "dialCode": "+372",
+    "currency": "EUR"
+  },
+  {
+    "name": "Cairo",
+    "countryCode": "EG",
+    "countryISOCode": "EGY",
+    "dialCode": "+20",
+    "currency": "EGP"
+  },
+  {
+    "name": "Pretoria",
+    "countryCode": "ZA",
+    "countryISOCode": "ZAF",
+    "dialCode": "+27",
+    "currency": "ZAR"
+  },
+  {
+    "name": "Quito",
+    "countryCode": "EC",
+    "countryISOCode": "ECU",
+    "dialCode": "+593",
+    "currency": "USD"
+  },
+  {
+    "name": "Rome",
+    "countryCode": "IT",
+    "countryISOCode": "ITA",
+    "dialCode": "+39",
+    "currency": "EUR"
+  },
+  {
+    "name": "Hanoi",
+    "countryCode": "VN",
+    "countryISOCode": "VNM",
+    "dialCode": "+84",
+    "currency": "VND"
+  },
+  {
+    "name": "Honiara",
+    "countryCode": "SB",
+    "countryISOCode": "SLB",
+    "dialCode": "+677",
+    "currency": "SBD"
+  },
+  {
+    "name": "Addis Ababa",
+    "countryCode": "ET",
+    "countryISOCode": "ETH",
+    "dialCode": "+251",
+    "currency": "ETB"
+  },
+  {
+    "name": "Mogadishu",
+    "countryCode": "SO",
+    "countryISOCode": "SOM",
+    "dialCode": "+252",
+    "currency": "SOS"
+  },
+  {
+    "name": "Harare",
+    "countryCode": "ZW",
+    "countryISOCode": "ZWE",
+    "dialCode": "+263",
+    "currency": "ZWL"
+  },
+  {
+    "name": "Riyadh",
+    "countryCode": "SA",
+    "countryISOCode": "SAU",
+    "dialCode": "+966",
+    "currency": "SAR"
+  },
+  {
+    "name": "Madrid",
+    "countryCode": "ES",
+    "countryISOCode": "ESP",
+    "dialCode": "+34",
+    "currency": "EUR"
+  },
+  {
+    "name": "Asmara",
+    "countryCode": "ER",
+    "countryISOCode": "ERI",
+    "dialCode": "+291",
+    "currency": "ERN"
+  },
+  {
+    "name": "Podgorica",
+    "countryCode": "ME",
+    "countryISOCode": "MNE",
+    "dialCode": "+382",
+    "currency": "EUR"
+  },
+  {
+    "name": "Chisinau",
+    "countryCode": "MD",
+    "countryISOCode": "MDA",
+    "dialCode": "+373",
+    "currency": "MDL"
+  },
+  {
+    "name": "Antananarivo",
+    "countryCode": "MG",
+    "countryISOCode": "MDG",
+    "dialCode": "+261",
+    "currency": "MGA"
+  },
+  {
+    "name": "Marigot",
+    "countryCode": "MF",
+    "countryISOCode": "MAF",
+    "dialCode": "+590",
+    "currency": "EUR"
+  },
+  {
+    "name": "Rabat",
+    "countryCode": "MA",
+    "countryISOCode": "MAR",
+    "dialCode": "+212",
+    "currency": "MAD"
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "MC",
+    "countryISOCode": "MCO",
+    "dialCode": "+377",
+    "currency": "EUR"
+  },
+  {
+    "name": "Tashkent",
+    "countryCode": "UZ",
+    "countryISOCode": "UZB",
+    "dialCode": "+998",
+    "currency": "UZS"
+  },
+  {
+    "name": "Nay Pyi Taw",
+    "countryCode": "MM",
+    "countryISOCode": "MMR",
+    "dialCode": "+95",
+    "currency": "MMK"
+  },
+  {
+    "name": "Bamako",
+    "countryCode": "ML",
+    "countryISOCode": "MLI",
+    "dialCode": "+223",
+    "currency": "XOF"
+  },
+  {
+    "name": "Macao",
+    "countryCode": "MO",
+    "countryISOCode": "MAC",
+    "dialCode": "+853",
+    "currency": "MOP"
+  },
+  {
+    "name": "Ulan Bator",
+    "countryCode": "MN",
+    "countryISOCode": "MNG",
+    "dialCode": "+976",
+    "currency": "MNT"
+  },
+  {
+    "name": "Majuro",
+    "countryCode": "MH",
+    "countryISOCode": "MHL",
+    "dialCode": "+692",
+    "currency": "USD"
+  },
+  {
+    "name": "Skopje",
+    "countryCode": "MK",
+    "countryISOCode": "MKD",
+    "dialCode": "+389",
+    "currency": "MKD"
+  },
+  {
+    "name": "Port Louis",
+    "countryCode": "MU",
+    "countryISOCode": "MUS",
+    "dialCode": "+230",
+    "currency": "MUR"
+  },
+  {
+    "name": "Valletta",
+    "countryCode": "MT",
+    "countryISOCode": "MLT",
+    "dialCode": "+356",
+    "currency": "EUR"
+  },
+  {
+    "name": "Lilongwe",
+    "countryCode": "MW",
+    "countryISOCode": "MWI",
+    "dialCode": "+265",
+    "currency": "MWK"
+  },
+  {
+    "name": "Male",
+    "countryCode": "MV",
+    "countryISOCode": "MDV",
+    "dialCode": "+960",
+    "currency": "MVR"
+  },
+  {
+    "name": "Fort-de-France",
+    "countryCode": "MQ",
+    "countryISOCode": "MTQ",
+    "dialCode": "+596",
+    "currency": "EUR"
+  },
+  {
+    "name": "Saipan",
+    "countryCode": "MP",
+    "countryISOCode": "MNP",
+    "dialCode": "++1-670",
+    "currency": "USD"
+  },
+  {
+    "name": "Plymouth",
+    "countryCode": "MS",
+    "countryISOCode": "MSR",
+    "dialCode": "++1-664",
+    "currency": "XCD"
+  },
+  {
+    "name": "Nouakchott",
+    "countryCode": "MR",
+    "countryISOCode": "MRT",
+    "dialCode": "+222",
+    "currency": "MRO"
+  },
+  {
+    "name": "Douglas, Isle of Man",
+    "countryCode": "IM",
+    "countryISOCode": "IMN",
+    "dialCode": "++44-1624",
+    "currency": "GBP"
+  },
+  {
+    "name": "Kampala",
+    "countryCode": "UG",
+    "countryISOCode": "UGA",
+    "dialCode": "+256",
+    "currency": "UGX"
+  },
+  {
+    "name": "Dodoma",
+    "countryCode": "TZ",
+    "countryISOCode": "TZA",
+    "dialCode": "+255",
+    "currency": "TZS"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "countryCode": "MY",
+    "countryISOCode": "MYS",
+    "dialCode": "+60",
+    "currency": "MYR"
+  },
+  {
+    "name": "Mexico City",
+    "countryCode": "MX",
+    "countryISOCode": "MEX",
+    "dialCode": "+52",
+    "currency": "MXN"
+  },
+  {
+    "name": "Jerusalem",
+    "countryCode": "IL",
+    "countryISOCode": "ISR",
+    "dialCode": "+972",
+    "currency": "ILS"
+  },
+  {
+    "name": "Paris",
+    "countryCode": "FR",
+    "countryISOCode": "FRA",
+    "dialCode": "+33",
+    "currency": "EUR"
+  },
+  {
+    "name": "Diego Garcia",
+    "countryCode": "IO",
+    "countryISOCode": "IOT",
+    "dialCode": "+246",
+    "currency": "USD"
+  },
+  {
+    "name": "Jamestown",
+    "countryCode": "SH",
+    "countryISOCode": "SHN",
+    "dialCode": "+290",
+    "currency": "SHP"
+  },
+  {
+    "name": "Helsinki",
+    "countryCode": "FI",
+    "countryISOCode": "FIN",
+    "dialCode": "+358",
+    "currency": "EUR"
+  },
+  {
+    "name": "Suva",
+    "countryCode": "FJ",
+    "countryISOCode": "FJI",
+    "dialCode": "+679",
+    "currency": "FJD"
+  },
+  {
+    "name": "Stanley",
+    "countryCode": "FK",
+    "countryISOCode": "FLK",
+    "dialCode": "+500",
+    "currency": "FKP"
+  },
+  {
+    "name": "Palikir",
+    "countryCode": "FM",
+    "countryISOCode": "FSM",
+    "dialCode": "+691",
+    "currency": "USD"
+  },
+  {
+    "name": "Torshavn",
+    "countryCode": "FO",
+    "countryISOCode": "FRO",
+    "dialCode": "+298",
+    "currency": "DKK"
+  },
+  {
+    "name": "Managua",
+    "countryCode": "NI",
+    "countryISOCode": "NIC",
+    "dialCode": "+505",
+    "currency": "NIO"
+  },
+  {
+    "name": "Amsterdam",
+    "countryCode": "NL",
+    "countryISOCode": "NLD",
+    "dialCode": "+31",
+    "currency": "EUR"
+  },
+  {
+    "name": "Oslo",
+    "countryCode": "NO",
+    "countryISOCode": "NOR",
+    "dialCode": "+47",
+    "currency": "NOK"
+  },
+  {
+    "name": "Windhoek",
+    "countryCode": "NA",
+    "countryISOCode": "NAM",
+    "dialCode": "+264",
+    "currency": "NAD"
+  },
+  {
+    "name": "Port Vila",
+    "countryCode": "VU",
+    "countryISOCode": "VUT",
+    "dialCode": "+678",
+    "currency": "VUV"
+  },
+  {
+    "name": "Noumea",
+    "countryCode": "NC",
+    "countryISOCode": "NCL",
+    "dialCode": "+687",
+    "currency": "XPF"
+  },
+  {
+    "name": "Niamey",
+    "countryCode": "NE",
+    "countryISOCode": "NER",
+    "dialCode": "+227",
+    "currency": "XOF"
+  },
+  {
+    "name": "Kingston",
+    "countryCode": "NF",
+    "countryISOCode": "NFK",
+    "dialCode": "+672",
+    "currency": "AUD"
+  },
+  {
+    "name": "Abuja",
+    "countryCode": "NG",
+    "countryISOCode": "NGA",
+    "dialCode": "+234",
+    "currency": "NGN"
+  },
+  {
+    "name": "Wellington",
+    "countryCode": "NZ",
+    "countryISOCode": "NZL",
+    "dialCode": "+64",
+    "currency": "NZD"
+  },
+  {
+    "name": "Kathmandu",
+    "countryCode": "NP",
+    "countryISOCode": "NPL",
+    "dialCode": "+977",
+    "currency": "NPR"
+  },
+  {
+    "name": "Yaren",
+    "countryCode": "NR",
+    "countryISOCode": "NRU",
+    "dialCode": "+674",
+    "currency": "AUD"
+  },
+  {
+    "name": "Alofi",
+    "countryCode": "NU",
+    "countryISOCode": "NIU",
+    "dialCode": "+683",
+    "currency": "NZD"
+  },
+  {
+    "name": "Avarua",
+    "countryCode": "CK",
+    "countryISOCode": "COK",
+    "dialCode": "+682",
+    "currency": "NZD"
+  },
+  {
+    "name": "Pristina",
+    "countryCode": "XK",
+    "countryISOCode": "XKX",
+    "dialCode": "+",
+    "currency": "EUR"
+  },
+  {
+    "name": "Yamoussoukro",
+    "countryCode": "CI",
+    "countryISOCode": "CIV",
+    "dialCode": "+225",
+    "currency": "XOF"
+  },
+  {
+    "name": "Berne",
+    "countryCode": "CH",
+    "countryISOCode": "CHE",
+    "dialCode": "+41",
+    "currency": "CHF"
+  },
+  {
+    "name": "Bogota",
+    "countryCode": "CO",
+    "countryISOCode": "COL",
+    "dialCode": "+57",
+    "currency": "COP"
+  },
+  {
+    "name": "Beijing",
+    "countryCode": "CN",
+    "countryISOCode": "CHN",
+    "dialCode": "+86",
+    "currency": "CNY"
+  },
+  {
+    "name": "Yaounde",
+    "countryCode": "CM",
+    "countryISOCode": "CMR",
+    "dialCode": "+237",
+    "currency": "XAF"
+  },
+  {
+    "name": "Santiago",
+    "countryCode": "CL",
+    "countryISOCode": "CHL",
+    "dialCode": "+56",
+    "currency": "CLP"
+  },
+  {
+    "name": "West Island",
+    "countryCode": "CC",
+    "countryISOCode": "CCK",
+    "dialCode": "+61",
+    "currency": "AUD"
+  },
+  {
+    "name": "Ottawa",
+    "countryCode": "CA",
+    "countryISOCode": "CAN",
+    "dialCode": "+1",
+    "currency": "CAD"
+  },
+  {
+    "name": "Brazzaville",
+    "countryCode": "CG",
+    "countryISOCode": "COG",
+    "dialCode": "+242",
+    "currency": "XAF"
+  },
+  {
+    "name": "Bangui",
+    "countryCode": "CF",
+    "countryISOCode": "CAF",
+    "dialCode": "+236",
+    "currency": "XAF"
+  },
+  {
+    "name": "Kinshasa",
+    "countryCode": "CD",
+    "countryISOCode": "COD",
+    "dialCode": "+243",
+    "currency": "CDF"
+  },
+  {
+    "name": "Prague",
+    "countryCode": "CZ",
+    "countryISOCode": "CZE",
+    "dialCode": "+420",
+    "currency": "CZK"
+  },
+  {
+    "name": "Nicosia",
+    "countryCode": "CY",
+    "countryISOCode": "CYP",
+    "dialCode": "+357",
+    "currency": "EUR"
+  },
+  {
+    "name": "Flying Fish Cove",
+    "countryCode": "CX",
+    "countryISOCode": "CXR",
+    "dialCode": "+61",
+    "currency": "AUD"
+  },
+  {
+    "name": "San Jose",
+    "countryCode": "CR",
+    "countryISOCode": "CRI",
+    "dialCode": "+506",
+    "currency": "CRC"
+  },
+  {
+    "name": " Willemstad",
+    "countryCode": "CW",
+    "countryISOCode": "CUW",
+    "dialCode": "+599",
+    "currency": "ANG"
+  },
+  {
+    "name": "Praia",
+    "countryCode": "CV",
+    "countryISOCode": "CPV",
+    "dialCode": "+238",
+    "currency": "CVE"
+  },
+  {
+    "name": "Havana",
+    "countryCode": "CU",
+    "countryISOCode": "CUB",
+    "dialCode": "+53",
+    "currency": "CUP"
+  },
+  {
+    "name": "Mbabane",
+    "countryCode": "SZ",
+    "countryISOCode": "SWZ",
+    "dialCode": "+268",
+    "currency": "SZL"
+  },
+  {
+    "name": "Damascus",
+    "countryCode": "SY",
+    "countryISOCode": "SYR",
+    "dialCode": "+963",
+    "currency": "SYP"
+  },
+  {
+    "name": "Philipsburg",
+    "countryCode": "SX",
+    "countryISOCode": "SXM",
+    "dialCode": "+599",
+    "currency": "ANG"
+  },
+  {
+    "name": "Bishkek",
+    "countryCode": "KG",
+    "countryISOCode": "KGZ",
+    "dialCode": "+996",
+    "currency": "KGS"
+  },
+  {
+    "name": "Nairobi",
+    "countryCode": "KE",
+    "countryISOCode": "KEN",
+    "dialCode": "+254",
+    "currency": "KES"
+  },
+  {
+    "name": "Juba",
+    "countryCode": "SS",
+    "countryISOCode": "SSD",
+    "dialCode": "+211",
+    "currency": "SSP"
+  },
+  {
+    "name": "Paramaribo",
+    "countryCode": "SR",
+    "countryISOCode": "SUR",
+    "dialCode": "+597",
+    "currency": "SRD"
+  },
+  {
+    "name": "Tarawa",
+    "countryCode": "KI",
+    "countryISOCode": "KIR",
+    "dialCode": "+686",
+    "currency": "AUD"
+  },
+  {
+    "name": "Phnom Penh",
+    "countryCode": "KH",
+    "countryISOCode": "KHM",
+    "dialCode": "+855",
+    "currency": "KHR"
+  },
+  {
+    "name": "Basseterre",
+    "countryCode": "KN",
+    "countryISOCode": "KNA",
+    "dialCode": "++1-869",
+    "currency": "XCD"
+  },
+  {
+    "name": "Moroni",
+    "countryCode": "KM",
+    "countryISOCode": "COM",
+    "dialCode": "+269",
+    "currency": "KMF"
+  },
+  {
+    "name": "Sao Tome",
+    "countryCode": "ST",
+    "countryISOCode": "STP",
+    "dialCode": "+239",
+    "currency": "STD"
+  },
+  {
+    "name": "Bratislava",
+    "countryCode": "SK",
+    "countryISOCode": "SVK",
+    "dialCode": "+421",
+    "currency": "EUR"
+  },
+  {
+    "name": "Seoul",
+    "countryCode": "KR",
+    "countryISOCode": "KOR",
+    "dialCode": "+82",
+    "currency": "KRW"
+  },
+  {
+    "name": "Ljubljana",
+    "countryCode": "SI",
+    "countryISOCode": "SVN",
+    "dialCode": "+386",
+    "currency": "EUR"
+  },
+  {
+    "name": "Pyongyang",
+    "countryCode": "KP",
+    "countryISOCode": "PRK",
+    "dialCode": "+850",
+    "currency": "KPW"
+  },
+  {
+    "name": "Kuwait City",
+    "countryCode": "KW",
+    "countryISOCode": "KWT",
+    "dialCode": "+965",
+    "currency": "KWD"
+  },
+  {
+    "name": "Dakar",
+    "countryCode": "SN",
+    "countryISOCode": "SEN",
+    "dialCode": "+221",
+    "currency": "XOF"
+  },
+  {
+    "name": "San Marino",
+    "countryCode": "SM",
+    "countryISOCode": "SMR",
+    "dialCode": "+378",
+    "currency": "EUR"
+  },
+  {
+    "name": "Freetown",
+    "countryCode": "SL",
+    "countryISOCode": "SLE",
+    "dialCode": "+232",
+    "currency": "SLL"
+  },
+  {
+    "name": "Victoria",
+    "countryCode": "SC",
+    "countryISOCode": "SYC",
+    "dialCode": "+248",
+    "currency": "SCR"
+  },
+  {
+    "name": "Astana",
+    "countryCode": "KZ",
+    "countryISOCode": "KAZ",
+    "dialCode": "+7",
+    "currency": "KZT"
+  },
+  {
+    "name": "George Town",
+    "countryCode": "KY",
+    "countryISOCode": "CYM",
+    "dialCode": "++1-345",
+    "currency": "KYD"
+  },
+  {
+    "name": "Singapur",
+    "countryCode": "SG",
+    "countryISOCode": "SGP",
+    "dialCode": "+65",
+    "currency": "SGD"
+  },
+  {
+    "name": "Stockholm",
+    "countryCode": "SE",
+    "countryISOCode": "SWE",
+    "dialCode": "+46",
+    "currency": "SEK"
+  },
+  {
+    "name": "Khartoum",
+    "countryCode": "SD",
+    "countryISOCode": "SDN",
+    "dialCode": "+249",
+    "currency": "SDG"
+  },
+  {
+    "name": "Santo Domingo",
+    "countryCode": "DO",
+    "countryISOCode": "DOM",
+    "dialCode": "++1-809 and 1-829",
+    "currency": "DOP"
+  },
+  {
+    "name": "Roseau",
+    "countryCode": "DM",
+    "countryISOCode": "DMA",
+    "dialCode": "++1-767",
+    "currency": "XCD"
+  },
+  {
+    "name": "Djibouti",
+    "countryCode": "DJ",
+    "countryISOCode": "DJI",
+    "dialCode": "+253",
+    "currency": "DJF"
+  },
+  {
+    "name": "Copenhagen",
+    "countryCode": "DK",
+    "countryISOCode": "DNK",
+    "dialCode": "+45",
+    "currency": "DKK"
+  },
+  {
+    "name": "Road Town",
+    "countryCode": "VG",
+    "countryISOCode": "VGB",
+    "dialCode": "++1-284",
+    "currency": "USD"
+  },
+  {
+    "name": "Berlin",
+    "countryCode": "DE",
+    "countryISOCode": "DEU",
+    "dialCode": "+49",
+    "currency": "EUR"
+  },
+  {
+    "name": "Sanaa",
+    "countryCode": "YE",
+    "countryISOCode": "YEM",
+    "dialCode": "+967",
+    "currency": "YER"
+  },
+  {
+    "name": "Algiers",
+    "countryCode": "DZ",
+    "countryISOCode": "DZA",
+    "dialCode": "+213",
+    "currency": "DZD"
+  },
+  {
+    "name": "Washington",
+    "countryCode": "US",
+    "countryISOCode": "USA",
+    "dialCode": "+1",
+    "currency": "USD"
+  },
+  {
+    "name": "Montevideo",
+    "countryCode": "UY",
+    "countryISOCode": "URY",
+    "dialCode": "+598",
+    "currency": "UYU"
+  },
+  {
+    "name": "Mamoudzou",
+    "countryCode": "YT",
+    "countryISOCode": "MYT",
+    "dialCode": "+262",
+    "currency": "EUR"
+  },
+  {
+    "name": "",
+    "countryCode": "UM",
+    "countryISOCode": "UMI",
+    "dialCode": "+1",
+    "currency": "USD"
+  },
+  {
+    "name": "Beirut",
+    "countryCode": "LB",
+    "countryISOCode": "LBN",
+    "dialCode": "+961",
+    "currency": "LBP"
+  },
+  {
+    "name": "Castries",
+    "countryCode": "LC",
+    "countryISOCode": "LCA",
+    "dialCode": "++1-758",
+    "currency": "XCD"
+  },
+  {
+    "name": "Vientiane",
+    "countryCode": "LA",
+    "countryISOCode": "LAO",
+    "dialCode": "+856",
+    "currency": "LAK"
+  },
+  {
+    "name": "Funafuti",
+    "countryCode": "TV",
+    "countryISOCode": "TUV",
+    "dialCode": "+688",
+    "currency": "AUD"
+  },
+  {
+    "name": "Taipei",
+    "countryCode": "TW",
+    "countryISOCode": "TWN",
+    "dialCode": "+886",
+    "currency": "TWD"
+  },
+  {
+    "name": "Port of Spain",
+    "countryCode": "TT",
+    "countryISOCode": "TTO",
+    "dialCode": "++1-868",
+    "currency": "TTD"
+  },
+  {
+    "name": "Ankara",
+    "countryCode": "TR",
+    "countryISOCode": "TUR",
+    "dialCode": "+90",
+    "currency": "TRY"
+  },
+  {
+    "name": "Colombo",
+    "countryCode": "LK",
+    "countryISOCode": "LKA",
+    "dialCode": "+94",
+    "currency": "LKR"
+  },
+  {
+    "name": "Vaduz",
+    "countryCode": "LI",
+    "countryISOCode": "LIE",
+    "dialCode": "+423",
+    "currency": "CHF"
+  },
+  {
+    "name": "Riga",
+    "countryCode": "LV",
+    "countryISOCode": "LVA",
+    "dialCode": "+371",
+    "currency": "EUR"
+  },
+  {
+    "name": "Nuku'alofa",
+    "countryCode": "TO",
+    "countryISOCode": "TON",
+    "dialCode": "+676",
+    "currency": "TOP"
+  },
+  {
+    "name": "Vilnius",
+    "countryCode": "LT",
+    "countryISOCode": "LTU",
+    "dialCode": "+370",
+    "currency": "LTL"
+  },
+  {
+    "name": "Luxembourg",
+    "countryCode": "LU",
+    "countryISOCode": "LUX",
+    "dialCode": "+352",
+    "currency": "EUR"
+  },
+  {
+    "name": "Monrovia",
+    "countryCode": "LR",
+    "countryISOCode": "LBR",
+    "dialCode": "+231",
+    "currency": "LRD"
+  },
+  {
+    "name": "Maseru",
+    "countryCode": "LS",
+    "countryISOCode": "LSO",
+    "dialCode": "+266",
+    "currency": "LSL"
+  },
+  {
+    "name": "Bangkok",
+    "countryCode": "TH",
+    "countryISOCode": "THA",
+    "dialCode": "+66",
+    "currency": "THB"
+  },
+  {
+    "name": "Port-aux-Francais",
+    "countryCode": "TF",
+    "countryISOCode": "ATF",
+    "dialCode": "+",
+    "currency": "EUR"
+  },
+  {
+    "name": "Lome",
+    "countryCode": "TG",
+    "countryISOCode": "TGO",
+    "dialCode": "+228",
+    "currency": "XOF"
+  },
+  {
+    "name": "N'Djamena",
+    "countryCode": "TD",
+    "countryISOCode": "TCD",
+    "dialCode": "+235",
+    "currency": "XAF"
+  },
+  {
+    "name": "Cockburn Town",
+    "countryCode": "TC",
+    "countryISOCode": "TCA",
+    "dialCode": "++1-649",
+    "currency": "USD"
+  },
+  {
+    "name": "Tripolis",
+    "countryCode": "LY",
+    "countryISOCode": "LBY",
+    "dialCode": "+218",
+    "currency": "LYD"
+  },
+  {
+    "name": "Vatican City",
+    "countryCode": "VA",
+    "countryISOCode": "VAT",
+    "dialCode": "+379",
+    "currency": "EUR"
+  },
+  {
+    "name": "Kingstown",
+    "countryCode": "VC",
+    "countryISOCode": "VCT",
+    "dialCode": "++1-784",
+    "currency": "XCD"
+  },
+  {
+    "name": "Abu Dhabi",
+    "countryCode": "AE",
+    "countryISOCode": "ARE",
+    "dialCode": "+971",
+    "currency": "AED"
+  },
+  {
+    "name": "Andorra la Vella",
+    "countryCode": "AD",
+    "countryISOCode": "AND",
+    "dialCode": "+376",
+    "currency": "EUR"
+  },
+  {
+    "name": "St. John's",
+    "countryCode": "AG",
+    "countryISOCode": "ATG",
+    "dialCode": "++1-268",
+    "currency": "XCD"
+  },
+  {
+    "name": "Kabul",
+    "countryCode": "AF",
+    "countryISOCode": "AFG",
+    "dialCode": "+93",
+    "currency": "AFN"
+  },
+  {
+    "name": "The Valley",
+    "countryCode": "AI",
+    "countryISOCode": "AIA",
+    "dialCode": "++1-264",
+    "currency": "XCD"
+  },
+  {
+    "name": "Charlotte Amalie",
+    "countryCode": "VI",
+    "countryISOCode": "VIR",
+    "dialCode": "++1-340",
+    "currency": "USD"
+  },
+  {
+    "name": "Reykjavik",
+    "countryCode": "IS",
+    "countryISOCode": "ISL",
+    "dialCode": "+354",
+    "currency": "ISK"
+  },
+  {
+    "name": "Tehran",
+    "countryCode": "IR",
+    "countryISOCode": "IRN",
+    "dialCode": "+98",
+    "currency": "IRR"
+  },
+  {
+    "name": "Yerevan",
+    "countryCode": "AM",
+    "countryISOCode": "ARM",
+    "dialCode": "+374",
+    "currency": "AMD"
+  },
+  {
+    "name": "Tirana",
+    "countryCode": "AL",
+    "countryISOCode": "ALB",
+    "dialCode": "+355",
+    "currency": "ALL"
+  },
+  {
+    "name": "Luanda",
+    "countryCode": "AO",
+    "countryISOCode": "AGO",
+    "dialCode": "+244",
+    "currency": "AOA"
+  },
+  {
+    "name": "",
+    "countryCode": "AQ",
+    "countryISOCode": "ATA",
+    "dialCode": "+",
+    "currency": ""
+  },
+  {
+    "name": "Pago Pago",
+    "countryCode": "AS",
+    "countryISOCode": "ASM",
+    "dialCode": "++1-684",
+    "currency": "USD"
+  },
+  {
+    "name": "Buenos Aires",
+    "countryCode": "AR",
+    "countryISOCode": "ARG",
+    "dialCode": "+54",
+    "currency": "ARS"
+  },
+  {
+    "name": "Canberra",
+    "countryCode": "AU",
+    "countryISOCode": "AUS",
+    "dialCode": "+61",
+    "currency": "AUD"
+  },
+  {
+    "name": "Vienna",
+    "countryCode": "AT",
+    "countryISOCode": "AUT",
+    "dialCode": "+43",
+    "currency": "EUR"
+  },
+  {
+    "name": "Oranjestad",
+    "countryCode": "AW",
+    "countryISOCode": "ABW",
+    "dialCode": "+297",
+    "currency": "AWG"
+  },
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "countryISOCode": "IND",
+    "dialCode": "+91",
+    "currency": "INR"
+  },
+  {
+    "name": "Mariehamn",
+    "countryCode": "AX",
+    "countryISOCode": "ALA",
+    "dialCode": "++358-18",
+    "currency": "EUR"
+  },
+  {
+    "name": "Baku",
+    "countryCode": "AZ",
+    "countryISOCode": "AZE",
+    "dialCode": "+994",
+    "currency": "AZN"
+  },
+  {
+    "name": "Dublin",
+    "countryCode": "IE",
+    "countryISOCode": "IRL",
+    "dialCode": "+353",
+    "currency": "EUR"
+  },
+  {
+    "name": "Jakarta",
+    "countryCode": "ID",
+    "countryISOCode": "IDN",
+    "dialCode": "+62",
+    "currency": "IDR"
+  },
+  {
+    "name": "Kiev",
+    "countryCode": "UA",
+    "countryISOCode": "UKR",
+    "dialCode": "+380",
+    "currency": "UAH"
+  },
+  {
+    "name": "Doha",
+    "countryCode": "QA",
+    "countryISOCode": "QAT",
+    "dialCode": "+974",
+    "currency": "QAR"
+  },
+  {
+    "name": "Maputo",
+    "countryCode": "MZ",
+    "countryISOCode": "MOZ",
+    "dialCode": "+258",
+    "currency": "MZN"
+  }
+]
