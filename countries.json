@@ -1,113 +1,129 @@
 [
   {
-    "name": "Dhaka",
+    "name": "Bangladesh",
     "countryCode": "BD",
     "countryISOCode": "BGD",
+    "dialCode": "+880",
     "currency": "BDT",
     "flagClass": ".flag .flag-bd"
   },
   {
-    "name": "Brussels",
+    "name": "Belgium",
     "countryCode": "BE",
     "countryISOCode": "BEL",
+    "dialCode": "+32",
     "currency": "EUR",
     "flagClass": ".flag .flag-be"
   },
   {
-    "name": "Ouagadougou",
+    "name": "Burkina Faso",
     "countryCode": "BF",
     "countryISOCode": "BFA",
+    "dialCode": "+226",
     "currency": "XOF",
     "flagClass": ".flag .flag-bf"
   },
   {
-    "name": "Sofia",
+    "name": "Bulgaria",
     "countryCode": "BG",
     "countryISOCode": "BGR",
+    "dialCode": "+359",
     "currency": "BGN",
     "flagClass": ".flag .flag-bg"
   },
   {
-    "name": "Sarajevo",
+    "name": "Bosnia and Herzegovina",
     "countryCode": "BA",
     "countryISOCode": "BIH",
+    "dialCode": "+387",
     "currency": "BAM",
     "flagClass": ".flag .flag-ba"
   },
   {
-    "name": "Bridgetown",
+    "name": "Barbados",
     "countryCode": "BB",
     "countryISOCode": "BRB",
+    "dialCode": "+1246",
     "currency": "BBD",
     "flagClass": ".flag .flag-bb"
   },
   {
-    "name": "Mata Utu",
+    "name": "Wallis and Futuna",
     "countryCode": "WF",
     "countryISOCode": "WLF",
+    "dialCode": "+681",
     "currency": "XPF",
     "flagClass": ".flag .flag-wf"
   },
   {
-    "name": "Gustavia",
+    "name": "Saint Barthelemy",
     "countryCode": "BL",
     "countryISOCode": "BLM",
+    "dialCode": "+590",
     "currency": "EUR",
     "flagClass": ".flag .flag-bl"
   },
   {
-    "name": "Hamilton",
+    "name": "Bermuda",
     "countryCode": "BM",
     "countryISOCode": "BMU",
+    "dialCode": "+1441",
     "currency": "BMD",
     "flagClass": ".flag .flag-bm"
   },
   {
-    "name": "Bandar Seri Begawan",
+    "name": "Brunei",
     "countryCode": "BN",
     "countryISOCode": "BRN",
+    "dialCode": "+673",
     "currency": "BND",
     "flagClass": ".flag .flag-bn"
   },
   {
-    "name": "Sucre",
+    "name": "Bolivia",
     "countryCode": "BO",
     "countryISOCode": "BOL",
+    "dialCode": "+591",
     "currency": "BOB",
     "flagClass": ".flag .flag-bo"
   },
   {
-    "name": "Manama",
+    "name": "Bahrain",
     "countryCode": "BH",
     "countryISOCode": "BHR",
+    "dialCode": "+973",
     "currency": "BHD",
     "flagClass": ".flag .flag-bh"
   },
   {
-    "name": "Bujumbura",
+    "name": "Burundi",
     "countryCode": "BI",
     "countryISOCode": "BDI",
+    "dialCode": "+257",
     "currency": "BIF",
     "flagClass": ".flag .flag-bi"
   },
   {
-    "name": "Porto-Novo",
+    "name": "Benin",
     "countryCode": "BJ",
     "countryISOCode": "BEN",
+    "dialCode": "+229",
     "currency": "XOF",
     "flagClass": ".flag .flag-bj"
   },
   {
-    "name": "Thimphu",
+    "name": "Bhutan",
     "countryCode": "BT",
     "countryISOCode": "BTN",
+    "dialCode": "+975",
     "currency": "BTN",
     "flagClass": ".flag .flag-bt"
   },
   {
-    "name": "Kingston",
+    "name": "Jamaica",
     "countryCode": "JM",
     "countryISOCode": "JAM",
+    "dialCode": "+1876",
     "currency": "JMD",
     "flagClass": ".flag .flag-jm"
   },
@@ -115,118 +131,135 @@
     "name": "Bouvet Island",
     "countryCode": "BV",
     "countryISOCode": "BVT",
+    "dialCode": "+",
     "currency": "NOK",
     "flagClass": ".flag .flag-bv"
   },
   {
-    "name": "Gaborone",
+    "name": "Botswana",
     "countryCode": "BW",
     "countryISOCode": "BWA",
+    "dialCode": "+267",
     "currency": "BWP",
     "flagClass": ".flag .flag-bw"
   },
   {
-    "name": "Apia",
+    "name": "Samoa",
     "countryCode": "WS",
     "countryISOCode": "WSM",
+    "dialCode": "+685",
     "currency": "WST",
     "flagClass": ".flag .flag-ws"
   },
   {
-    "name": "Bonaire, Sint Eustatius and Saba",
+    "name": "Bonaire, Saint Eustatius and Saba ",
     "countryCode": "BQ",
     "countryISOCode": "BES",
+    "dialCode": "+599",
     "currency": "USD",
     "flagClass": ".flag .flag-bq"
   },
   {
-    "name": "Brasilia",
+    "name": "Brazil",
     "countryCode": "BR",
     "countryISOCode": "BRA",
+    "dialCode": "+55",
     "currency": "BRL",
     "flagClass": ".flag .flag-br"
   },
   {
-    "name": "Nassau",
+    "name": "Bahamas",
     "countryCode": "BS",
     "countryISOCode": "BHS",
+    "dialCode": "+1242",
     "currency": "BSD",
     "flagClass": ".flag .flag-bs"
   },
   {
-    "name": "Saint Helier",
+    "name": "Jersey",
     "countryCode": "JE",
     "countryISOCode": "JEY",
+    "dialCode": "+44",
     "currency": "GBP",
     "flagClass": ".flag .flag-je"
   },
   {
-    "name": "Minsk",
+    "name": "Belarus",
     "countryCode": "BY",
     "countryISOCode": "BLR",
+    "dialCode": "+375",
     "currency": "BYR",
     "flagClass": ".flag .flag-by"
   },
   {
-    "name": "Belmopan",
+    "name": "Belize",
     "countryCode": "BZ",
     "countryISOCode": "BLZ",
+    "dialCode": "+501",
     "currency": "BZD",
     "flagClass": ".flag .flag-bz"
   },
   {
-    "name": "Moscow",
+    "name": "Russia",
     "countryCode": "RU",
     "countryISOCode": "RUS",
+    "dialCode": "+7",
     "currency": "RUB",
     "flagClass": ".flag .flag-ru"
   },
   {
-    "name": "Kigali",
+    "name": "Rwanda",
     "countryCode": "RW",
     "countryISOCode": "RWA",
+    "dialCode": "+250",
     "currency": "RWF",
     "flagClass": ".flag .flag-rw"
   },
   {
-    "name": "Belgrade",
+    "name": "Serbia",
     "countryCode": "RS",
     "countryISOCode": "SRB",
+    "dialCode": "+381",
     "currency": "RSD",
     "flagClass": ".flag .flag-rs"
   },
   {
-    "name": "Dili",
+    "name": "East Timor",
     "countryCode": "TL",
     "countryISOCode": "TLS",
+    "dialCode": "+670",
     "currency": "USD",
     "flagClass": ".flag .flag-tl"
   },
   {
-    "name": "Saint-Denis",
+    "name": "Reunion",
     "countryCode": "RE",
     "countryISOCode": "REU",
+    "dialCode": "+262",
     "currency": "EUR",
     "flagClass": ".flag .flag-re"
   },
   {
-    "name": "Ashgabat",
+    "name": "Turkmenistan",
     "countryCode": "TM",
     "countryISOCode": "TKM",
+    "dialCode": "+993",
     "currency": "TMT",
     "flagClass": ".flag .flag-tm"
   },
   {
-    "name": "Dushanbe",
+    "name": "Tajikistan",
     "countryCode": "TJ",
     "countryISOCode": "TJK",
+    "dialCode": "+992",
     "currency": "TJS",
     "flagClass": ".flag .flag-tj"
   },
   {
-    "name": "Bucharest",
+    "name": "Romania",
     "countryCode": "RO",
     "countryISOCode": "ROU",
+    "dialCode": "+40",
     "currency": "RON",
     "flagClass": ".flag .flag-ro"
   },
@@ -234,139 +267,159 @@
     "name": "Tokelau",
     "countryCode": "TK",
     "countryISOCode": "TKL",
+    "dialCode": "+690",
     "currency": "NZD",
     "flagClass": ".flag .flag-tk"
   },
   {
-    "name": "Bissau",
+    "name": "Guinea-Bissau",
     "countryCode": "GW",
     "countryISOCode": "GNB",
+    "dialCode": "+245",
     "currency": "XOF",
     "flagClass": ".flag .flag-gw"
   },
   {
-    "name": "Hagatna",
+    "name": "Guam",
     "countryCode": "GU",
     "countryISOCode": "GUM",
+    "dialCode": "+1671",
     "currency": "USD",
     "flagClass": ".flag .flag-gu"
   },
   {
-    "name": "Guatemala City",
+    "name": "Guatemala",
     "countryCode": "GT",
     "countryISOCode": "GTM",
+    "dialCode": "+502",
     "currency": "GTQ",
     "flagClass": ".flag .flag-gt"
   },
   {
-    "name": "Grytviken",
+    "name": "South Georgia and the South Sandwich Islands",
     "countryCode": "GS",
     "countryISOCode": "SGS",
+    "dialCode": "+",
     "currency": "GBP",
     "flagClass": ".flag .flag-gs"
   },
   {
-    "name": "Athens",
+    "name": "Greece",
     "countryCode": "GR",
     "countryISOCode": "GRC",
+    "dialCode": "+30",
     "currency": "EUR",
     "flagClass": ".flag .flag-gr"
   },
   {
-    "name": "Malabo",
+    "name": "Equatorial Guinea",
     "countryCode": "GQ",
     "countryISOCode": "GNQ",
+    "dialCode": "+240",
     "currency": "XAF",
     "flagClass": ".flag .flag-gq"
   },
   {
-    "name": "Basse-Terre",
+    "name": "Guadeloupe",
     "countryCode": "GP",
     "countryISOCode": "GLP",
+    "dialCode": "+590",
     "currency": "EUR",
     "flagClass": ".flag .flag-gp"
   },
   {
-    "name": "Tokyo",
+    "name": "Japan",
     "countryCode": "JP",
     "countryISOCode": "JPN",
+    "dialCode": "+81",
     "currency": "JPY",
     "flagClass": ".flag .flag-jp"
   },
   {
-    "name": "Georgetown",
+    "name": "Guyana",
     "countryCode": "GY",
     "countryISOCode": "GUY",
+    "dialCode": "+592",
     "currency": "GYD",
     "flagClass": ".flag .flag-gy"
   },
   {
-    "name": "St Peter Port",
+    "name": "Guernsey",
     "countryCode": "GG",
     "countryISOCode": "GGY",
+    "dialCode": "+44",
     "currency": "GBP",
     "flagClass": ".flag .flag-gg"
   },
   {
-    "name": "Cayenne",
+    "name": "French Guiana",
     "countryCode": "GF",
     "countryISOCode": "GUF",
+    "dialCode": "+594",
     "currency": "EUR",
     "flagClass": ".flag .flag-gf"
   },
   {
-    "name": "Tbilisi",
+    "name": "Georgia",
     "countryCode": "GE",
     "countryISOCode": "GEO",
+    "dialCode": "+995",
     "currency": "GEL",
     "flagClass": ".flag .flag-ge"
   },
   {
-    "name": "St. George's",
+    "name": "Grenada",
     "countryCode": "GD",
     "countryISOCode": "GRD",
+    "dialCode": "+1473",
     "currency": "XCD",
     "flagClass": ".flag .flag-gd"
   },
   {
-    "name": "London",
+    "name": "United Kingdom",
     "countryCode": "GB",
     "countryISOCode": "GBR",
+    "dialCode": "+44",
     "currency": "GBP",
     "flagClass": ".flag .flag-gb"
   },
   {
-    "name": "Libreville",
+    "name": "Gabon",
     "countryCode": "GA",
     "countryISOCode": "GAB",
+    "dialCode": "+241",
     "currency": "XAF",
     "flagClass": ".flag .flag-ga"
   },
   {
-    "name": "San Salvador",
+    "name": "El Salvador",
     "countryCode": "SV",
     "countryISOCode": "SLV",
+    "dialCode": "+503",
     "currency": "USD",
     "flagClass": ".flag .flag-sv"
   },
   {
-    "name": "Conakry",
+    "name": "Guinea",
     "countryCode": "GN",
     "countryISOCode": "GIN",
+    "dialCode": "+224",
     "currency": "GNF",
     "flagClass": ".flag .flag-gn"
   },
   {
-    "name": "Banjul",
+    "name": "Gambia",
     "countryCode": "GM",
     "countryISOCode": "GMB",
+    "dialCode": "+220",
     "currency": "GMD",
     "flagClass": ".flag .flag-gm"
   },
   {
-    "name": "Nuuk",
+    "name": "Greenland",
     "countryCode": "GL",
     "countryISOCode": "GRL",
+    "dialCode": "+299",
     "currency": "DKK",
     "flagClass": ".flag .flag-gl"
   },
@@ -374,55 +427,63 @@
     "name": "Gibraltar",
     "countryCode": "GI",
     "countryISOCode": "GIB",
+    "dialCode": "+350",
     "currency": "GIP",
     "flagClass": ".flag .flag-gi"
   },
   {
-    "name": "Accra",
+    "name": "Ghana",
     "countryCode": "GH",
     "countryISOCode": "GHA",
+    "dialCode": "+233",
     "currency": "GHS",
     "flagClass": ".flag .flag-gh"
   },
   {
-    "name": "Muscat",
+    "name": "Oman",
     "countryCode": "OM",
     "countryISOCode": "OMN",
+    "dialCode": "+968",
     "currency": "OMR",
     "flagClass": ".flag .flag-om"
   },
   {
-    "name": "Tunis",
+    "name": "Tunisia",
     "countryCode": "TN",
     "countryISOCode": "TUN",
+    "dialCode": "+216",
     "currency": "TND",
     "flagClass": ".flag .flag-tn"
   },
   {
-    "name": "Amman",
+    "name": "Jordan",
     "countryCode": "JO",
     "countryISOCode": "JOR",
+    "dialCode": "+962",
     "currency": "JOD",
     "flagClass": ".flag .flag-jo"
   },
   {
-    "name": "Zagreb",
+    "name": "Croatia",
     "countryCode": "HR",
     "countryISOCode": "HRV",
+    "dialCode": "+385",
     "currency": "HRK",
     "flagClass": ".flag .flag-hr"
   },
   {
-    "name": "Port-au-Prince",
+    "name": "Haiti",
     "countryCode": "HT",
     "countryISOCode": "HTI",
+    "dialCode": "+509",
     "currency": "HTG",
     "flagClass": ".flag .flag-ht"
   },
   {
-    "name": "Budapest",
+    "name": "Hungary",
     "countryCode": "HU",
     "countryISOCode": "HUN",
+    "dialCode": "+36",
     "currency": "HUF",
     "flagClass": ".flag .flag-hu"
   },
@@ -430,13 +491,15 @@
     "name": "Hong Kong",
     "countryCode": "HK",
     "countryISOCode": "HKG",
+    "dialCode": "+852",
     "currency": "HKD",
     "flagClass": ".flag .flag-hk"
   },
   {
-    "name": "Tegucigalpa",
+    "name": "Honduras",
     "countryCode": "HN",
     "countryISOCode": "HND",
+    "dialCode": "+504",
     "currency": "HNL",
     "flagClass": ".flag .flag-hn"
   },
@@ -444,265 +507,303 @@
     "name": "Heard Island and McDonald Islands",
     "countryCode": "HM",
     "countryISOCode": "HMD",
+    "dialCode": "+ ",
     "currency": "AUD",
     "flagClass": ".flag .flag-hm"
   },
   {
-    "name": "Caracas",
+    "name": "Venezuela",
     "countryCode": "VE",
     "countryISOCode": "VEN",
+    "dialCode": "+58",
     "currency": "VEF",
     "flagClass": ".flag .flag-ve"
   },
   {
-    "name": "San Juan",
+    "name": "Puerto Rico",
     "countryCode": "PR",
     "countryISOCode": "PRI",
+    "dialCode": "+1939",
     "currency": "USD",
     "flagClass": ".flag .flag-pr"
   },
   {
-    "name": "East Jerusalem",
+    "name": "Palestinian Territory",
     "countryCode": "PS",
     "countryISOCode": "PSE",
+    "dialCode": "+970",
     "currency": "ILS",
     "flagClass": ".flag .flag-ps"
   },
   {
-    "name": "Melekeok",
+    "name": "Palau",
     "countryCode": "PW",
     "countryISOCode": "PLW",
+    "dialCode": "+680",
     "currency": "USD",
     "flagClass": ".flag .flag-pw"
   },
   {
-    "name": "Lisbon",
+    "name": "Portugal",
     "countryCode": "PT",
     "countryISOCode": "PRT",
+    "dialCode": "+351",
     "currency": "EUR",
     "flagClass": ".flag .flag-pt"
   },
   {
-    "name": "Longyearbyen",
+    "name": "Svalbard and Jan Mayen",
     "countryCode": "SJ",
     "countryISOCode": "SJM",
+    "dialCode": "+47",
     "currency": "NOK",
     "flagClass": ".flag .flag-sj"
   },
   {
-    "name": "Asuncion",
+    "name": "Paraguay",
     "countryCode": "PY",
     "countryISOCode": "PRY",
+    "dialCode": "+595",
     "currency": "PYG",
     "flagClass": ".flag .flag-py"
   },
   {
-    "name": "Baghdad",
+    "name": "Iraq",
     "countryCode": "IQ",
     "countryISOCode": "IRQ",
+    "dialCode": "+964",
     "currency": "IQD",
     "flagClass": ".flag .flag-iq"
   },
   {
-    "name": "Panama City",
+    "name": "Panama",
     "countryCode": "PA",
     "countryISOCode": "PAN",
+    "dialCode": "+507",
     "currency": "PAB",
     "flagClass": ".flag .flag-pa"
   },
   {
-    "name": "Papeete",
+    "name": "French Polynesia",
     "countryCode": "PF",
     "countryISOCode": "PYF",
+    "dialCode": "+689",
     "currency": "XPF",
     "flagClass": ".flag .flag-pf"
   },
   {
-    "name": "Port Moresby",
+    "name": "Papua New Guinea",
     "countryCode": "PG",
     "countryISOCode": "PNG",
+    "dialCode": "+675",
     "currency": "PGK",
     "flagClass": ".flag .flag-pg"
   },
   {
-    "name": "Lima",
+    "name": "Peru",
     "countryCode": "PE",
     "countryISOCode": "PER",
+    "dialCode": "+51",
     "currency": "PEN",
     "flagClass": ".flag .flag-pe"
   },
   {
-    "name": "Islamabad",
+    "name": "Pakistan",
     "countryCode": "PK",
     "countryISOCode": "PAK",
+    "dialCode": "+92",
     "currency": "PKR",
     "flagClass": ".flag .flag-pk"
   },
   {
-    "name": "Manila",
+    "name": "Philippines",
     "countryCode": "PH",
     "countryISOCode": "PHL",
+    "dialCode": "+63",
     "currency": "PHP",
     "flagClass": ".flag .flag-ph"
   },
   {
-    "name": "Adamstown",
+    "name": "Pitcairn",
     "countryCode": "PN",
     "countryISOCode": "PCN",
+    "dialCode": "+870",
     "currency": "NZD",
     "flagClass": ".flag .flag-pn"
   },
   {
-    "name": "Warsaw",
+    "name": "Poland",
     "countryCode": "PL",
     "countryISOCode": "POL",
+    "dialCode": "+48",
     "currency": "PLN",
     "flagClass": ".flag .flag-pl"
   },
   {
-    "name": "Saint-Pierre",
+    "name": "Saint Pierre and Miquelon",
     "countryCode": "PM",
     "countryISOCode": "SPM",
+    "dialCode": "+508",
     "currency": "EUR",
     "flagClass": ".flag .flag-pm"
   },
   {
-    "name": "Lusaka",
+    "name": "Zambia",
     "countryCode": "ZM",
     "countryISOCode": "ZMB",
+    "dialCode": "+260",
     "currency": "ZMK",
     "flagClass": ".flag .flag-zm"
   },
   {
-    "name": "El-Aaiun",
+    "name": "Western Sahara",
     "countryCode": "EH",
     "countryISOCode": "ESH",
+    "dialCode": "+212",
     "currency": "MAD",
     "flagClass": ".flag .flag-eh"
   },
   {
-    "name": "Tallinn",
+    "name": "Estonia",
     "countryCode": "EE",
     "countryISOCode": "EST",
+    "dialCode": "+372",
     "currency": "EUR",
     "flagClass": ".flag .flag-ee"
   },
   {
-    "name": "Cairo",
+    "name": "Egypt",
     "countryCode": "EG",
     "countryISOCode": "EGY",
+    "dialCode": "+20",
     "currency": "EGP",
     "flagClass": ".flag .flag-eg"
   },
   {
-    "name": "Pretoria",
+    "name": "South Africa",
     "countryCode": "ZA",
     "countryISOCode": "ZAF",
+    "dialCode": "+27",
     "currency": "ZAR",
     "flagClass": ".flag .flag-za"
   },
   {
-    "name": "Quito",
+    "name": "Ecuador",
     "countryCode": "EC",
     "countryISOCode": "ECU",
+    "dialCode": "+593",
     "currency": "USD",
     "flagClass": ".flag .flag-ec"
   },
   {
-    "name": "Rome",
+    "name": "Italy",
     "countryCode": "IT",
     "countryISOCode": "ITA",
+    "dialCode": "+39",
     "currency": "EUR",
     "flagClass": ".flag .flag-it"
   },
   {
-    "name": "Hanoi",
+    "name": "Vietnam",
     "countryCode": "VN",
     "countryISOCode": "VNM",
+    "dialCode": "+84",
     "currency": "VND",
     "flagClass": ".flag .flag-vn"
   },
   {
-    "name": "Honiara",
+    "name": "Solomon Islands",
     "countryCode": "SB",
     "countryISOCode": "SLB",
+    "dialCode": "+677",
     "currency": "SBD",
     "flagClass": ".flag .flag-sb"
   },
   {
-    "name": "Addis Ababa",
+    "name": "Ethiopia",
     "countryCode": "ET",
     "countryISOCode": "ETH",
+    "dialCode": "+251",
     "currency": "ETB",
     "flagClass": ".flag .flag-et"
   },
   {
-    "name": "Mogadishu",
+    "name": "Somalia",
     "countryCode": "SO",
     "countryISOCode": "SOM",
+    "dialCode": "+252",
     "currency": "SOS",
     "flagClass": ".flag .flag-so"
   },
   {
-    "name": "Harare",
+    "name": "Zimbabwe",
     "countryCode": "ZW",
     "countryISOCode": "ZWE",
+    "dialCode": "+263",
     "currency": "ZWL",
     "flagClass": ".flag .flag-zw"
   },
   {
-    "name": "Riyadh",
+    "name": "Saudi Arabia",
     "countryCode": "SA",
     "countryISOCode": "SAU",
+    "dialCode": "+966",
     "currency": "SAR",
     "flagClass": ".flag .flag-sa"
   },
   {
-    "name": "Madrid",
+    "name": "Spain",
     "countryCode": "ES",
     "countryISOCode": "ESP",
+    "dialCode": "+34",
     "currency": "EUR",
     "flagClass": ".flag .flag-es"
   },
   {
-    "name": "Asmara",
+    "name": "Eritrea",
     "countryCode": "ER",
     "countryISOCode": "ERI",
+    "dialCode": "+291",
     "currency": "ERN",
     "flagClass": ".flag .flag-er"
   },
   {
-    "name": "Podgorica",
+    "name": "Montenegro",
     "countryCode": "ME",
     "countryISOCode": "MNE",
+    "dialCode": "+382",
     "currency": "EUR",
     "flagClass": ".flag .flag-me"
   },
   {
-    "name": "Chisinau",
+    "name": "Moldova",
     "countryCode": "MD",
     "countryISOCode": "MDA",
+    "dialCode": "+373",
     "currency": "MDL",
     "flagClass": ".flag .flag-md"
   },
   {
-    "name": "Antananarivo",
+    "name": "Madagascar",
     "countryCode": "MG",
     "countryISOCode": "MDG",
+    "dialCode": "+261",
     "currency": "MGA",
     "flagClass": ".flag .flag-mg"
   },
   {
-    "name": "Marigot",
+    "name": "Saint Martin",
     "countryCode": "MF",
     "countryISOCode": "MAF",
+    "dialCode": "+590",
     "currency": "EUR",
     "flagClass": ".flag .flag-mf"
   },
   {
-    "name": "Rabat",
+    "name": "Morocco",
     "countryCode": "MA",
     "countryISOCode": "MAR",
+    "dialCode": "+212",
     "currency": "MAD",
     "flagClass": ".flag .flag-ma"
   },
@@ -710,27 +811,31 @@
     "name": "Monaco",
     "countryCode": "MC",
     "countryISOCode": "MCO",
+    "dialCode": "+377",
     "currency": "EUR",
     "flagClass": ".flag .flag-mc"
   },
   {
-    "name": "Tashkent",
+    "name": "Uzbekistan",
     "countryCode": "UZ",
     "countryISOCode": "UZB",
+    "dialCode": "+998",
     "currency": "UZS",
     "flagClass": ".flag .flag-uz"
   },
   {
-    "name": "Nay Pyi Taw",
+    "name": "Myanmar",
     "countryCode": "MM",
     "countryISOCode": "MMR",
+    "dialCode": "+95",
     "currency": "MMK",
     "flagClass": ".flag .flag-mm"
   },
   {
-    "name": "Bamako",
+    "name": "Mali",
     "countryCode": "ML",
     "countryISOCode": "MLI",
+    "dialCode": "+223",
     "currency": "XOF",
     "flagClass": ".flag .flag-ml"
   },
@@ -738,538 +843,615 @@
     "name": "Macao",
     "countryCode": "MO",
     "countryISOCode": "MAC",
+    "dialCode": "+853",
     "currency": "MOP",
     "flagClass": ".flag .flag-mo"
   },
   {
-    "name": "Ulan Bator",
+    "name": "Mongolia",
     "countryCode": "MN",
     "countryISOCode": "MNG",
+    "dialCode": "+976",
     "currency": "MNT",
     "flagClass": ".flag .flag-mn"
   },
   {
-    "name": "Majuro",
+    "name": "Marshall Islands",
     "countryCode": "MH",
     "countryISOCode": "MHL",
+    "dialCode": "+692",
     "currency": "USD",
     "flagClass": ".flag .flag-mh"
   },
   {
-    "name": "Skopje",
+    "name": "Macedonia",
     "countryCode": "MK",
     "countryISOCode": "MKD",
+    "dialCode": "+389",
     "currency": "MKD",
     "flagClass": ".flag .flag-mk"
   },
   {
-    "name": "Port Louis",
+    "name": "Mauritius",
     "countryCode": "MU",
     "countryISOCode": "MUS",
+    "dialCode": "+230",
     "currency": "MUR",
     "flagClass": ".flag .flag-mu"
   },
   {
-    "name": "Valletta",
+    "name": "Malta",
     "countryCode": "MT",
     "countryISOCode": "MLT",
+    "dialCode": "+356",
     "currency": "EUR",
     "flagClass": ".flag .flag-mt"
   },
   {
-    "name": "Lilongwe",
+    "name": "Malawi",
     "countryCode": "MW",
     "countryISOCode": "MWI",
+    "dialCode": "+265",
     "currency": "MWK",
     "flagClass": ".flag .flag-mw"
   },
   {
-    "name": "Male",
+    "name": "Maldives",
     "countryCode": "MV",
     "countryISOCode": "MDV",
+    "dialCode": "+960",
     "currency": "MVR",
     "flagClass": ".flag .flag-mv"
   },
   {
-    "name": "Fort-de-France",
+    "name": "Martinique",
     "countryCode": "MQ",
     "countryISOCode": "MTQ",
+    "dialCode": "+596",
     "currency": "EUR",
     "flagClass": ".flag .flag-mq"
   },
   {
-    "name": "Saipan",
+    "name": "Northern Mariana Islands",
     "countryCode": "MP",
     "countryISOCode": "MNP",
+    "dialCode": "+1670",
     "currency": "USD",
     "flagClass": ".flag .flag-mp"
   },
   {
-    "name": "Plymouth",
+    "name": "Montserrat",
     "countryCode": "MS",
     "countryISOCode": "MSR",
+    "dialCode": "+1664",
     "currency": "XCD",
     "flagClass": ".flag .flag-ms"
   },
   {
-    "name": "Nouakchott",
+    "name": "Mauritania",
     "countryCode": "MR",
     "countryISOCode": "MRT",
+    "dialCode": "+222",
     "currency": "MRO",
     "flagClass": ".flag .flag-mr"
   },
   {
-    "name": "Douglas, Isle of Man",
+    "name": "Isle of Man",
     "countryCode": "IM",
     "countryISOCode": "IMN",
+    "dialCode": "+44",
     "currency": "GBP",
     "flagClass": ".flag .flag-im"
   },
   {
-    "name": "Kampala",
+    "name": "Uganda",
     "countryCode": "UG",
     "countryISOCode": "UGA",
+    "dialCode": "+256",
     "currency": "UGX",
     "flagClass": ".flag .flag-ug"
   },
   {
-    "name": "Dodoma",
+    "name": "Tanzania",
     "countryCode": "TZ",
     "countryISOCode": "TZA",
+    "dialCode": "+255",
     "currency": "TZS",
     "flagClass": ".flag .flag-tz"
   },
   {
-    "name": "Kuala Lumpur",
+    "name": "Malaysia",
     "countryCode": "MY",
     "countryISOCode": "MYS",
+    "dialCode": "+60",
     "currency": "MYR",
     "flagClass": ".flag .flag-my"
   },
   {
-    "name": "Mexico City",
+    "name": "Mexico",
     "countryCode": "MX",
     "countryISOCode": "MEX",
+    "dialCode": "+52",
     "currency": "MXN",
     "flagClass": ".flag .flag-mx"
   },
   {
-    "name": "Jerusalem",
+    "name": "Israel",
     "countryCode": "IL",
     "countryISOCode": "ISR",
+    "dialCode": "+972",
     "currency": "ILS",
     "flagClass": ".flag .flag-il"
   },
   {
-    "name": "Paris",
+    "name": "France",
     "countryCode": "FR",
     "countryISOCode": "FRA",
+    "dialCode": "+33",
     "currency": "EUR",
     "flagClass": ".flag .flag-fr"
   },
   {
-    "name": "Diego Garcia",
+    "name": "British Indian Ocean Territory",
     "countryCode": "IO",
     "countryISOCode": "IOT",
+    "dialCode": "+246",
     "currency": "USD",
     "flagClass": ".flag .flag-io"
   },
   {
-    "name": "Jamestown",
+    "name": "Saint Helena",
     "countryCode": "SH",
     "countryISOCode": "SHN",
+    "dialCode": "+290",
     "currency": "SHP",
     "flagClass": ".flag .flag-sh"
   },
   {
-    "name": "Helsinki",
+    "name": "Finland",
     "countryCode": "FI",
     "countryISOCode": "FIN",
+    "dialCode": "+358",
     "currency": "EUR",
     "flagClass": ".flag .flag-fi"
   },
   {
-    "name": "Suva",
+    "name": "Fiji",
     "countryCode": "FJ",
     "countryISOCode": "FJI",
+    "dialCode": "+679",
     "currency": "FJD",
     "flagClass": ".flag .flag-fj"
   },
   {
-    "name": "Stanley",
+    "name": "Falkland Islands",
     "countryCode": "FK",
     "countryISOCode": "FLK",
+    "dialCode": "+500",
     "currency": "FKP",
     "flagClass": ".flag .flag-fk"
   },
   {
-    "name": "Palikir",
+    "name": "Micronesia",
     "countryCode": "FM",
     "countryISOCode": "FSM",
+    "dialCode": "+691",
     "currency": "USD",
     "flagClass": ".flag .flag-fm"
   },
   {
-    "name": "Torshavn",
+    "name": "Faroe Islands",
     "countryCode": "FO",
     "countryISOCode": "FRO",
+    "dialCode": "+298",
     "currency": "DKK",
     "flagClass": ".flag .flag-fo"
   },
   {
-    "name": "Managua",
+    "name": "Nicaragua",
     "countryCode": "NI",
     "countryISOCode": "NIC",
+    "dialCode": "+505",
     "currency": "NIO",
     "flagClass": ".flag .flag-ni"
   },
   {
-    "name": "Amsterdam",
+    "name": "Netherlands",
     "countryCode": "NL",
     "countryISOCode": "NLD",
+    "dialCode": "+31",
     "currency": "EUR",
     "flagClass": ".flag .flag-nl"
   },
   {
-    "name": "Oslo",
+    "name": "Norway",
     "countryCode": "NO",
     "countryISOCode": "NOR",
+    "dialCode": "+47",
     "currency": "NOK",
     "flagClass": ".flag .flag-no"
   },
   {
-    "name": "Windhoek",
+    "name": "Namibia",
     "countryCode": "NA",
     "countryISOCode": "NAM",
+    "dialCode": "+264",
     "currency": "NAD",
     "flagClass": ".flag .flag-na"
   },
   {
-    "name": "Port Vila",
+    "name": "Vanuatu",
     "countryCode": "VU",
     "countryISOCode": "VUT",
+    "dialCode": "+678",
     "currency": "VUV",
     "flagClass": ".flag .flag-vu"
   },
   {
-    "name": "Noumea",
+    "name": "New Caledonia",
     "countryCode": "NC",
     "countryISOCode": "NCL",
+    "dialCode": "+687",
     "currency": "XPF",
     "flagClass": ".flag .flag-nc"
   },
   {
-    "name": "Niamey",
+    "name": "Niger",
     "countryCode": "NE",
     "countryISOCode": "NER",
+    "dialCode": "+227",
     "currency": "XOF",
     "flagClass": ".flag .flag-ne"
   },
   {
-    "name": "Kingston",
+    "name": "Norfolk Island",
     "countryCode": "NF",
     "countryISOCode": "NFK",
+    "dialCode": "+672",
     "currency": "AUD",
     "flagClass": ".flag .flag-nf"
   },
   {
-    "name": "Abuja",
+    "name": "Nigeria",
     "countryCode": "NG",
     "countryISOCode": "NGA",
+    "dialCode": "+234",
     "currency": "NGN",
     "flagClass": ".flag .flag-ng"
   },
   {
-    "name": "Wellington",
+    "name": "New Zealand",
     "countryCode": "NZ",
     "countryISOCode": "NZL",
+    "dialCode": "+64",
     "currency": "NZD",
     "flagClass": ".flag .flag-nz"
   },
   {
-    "name": "Kathmandu",
+    "name": "Nepal",
     "countryCode": "NP",
     "countryISOCode": "NPL",
+    "dialCode": "+977",
     "currency": "NPR",
     "flagClass": ".flag .flag-np"
   },
   {
-    "name": "Yaren",
+    "name": "Nauru",
     "countryCode": "NR",
     "countryISOCode": "NRU",
+    "dialCode": "+674",
     "currency": "AUD",
     "flagClass": ".flag .flag-nr"
   },
   {
-    "name": "Alofi",
+    "name": "Niue",
     "countryCode": "NU",
     "countryISOCode": "NIU",
+    "dialCode": "+683",
     "currency": "NZD",
     "flagClass": ".flag .flag-nu"
   },
   {
-    "name": "Avarua",
+    "name": "Cook Islands",
     "countryCode": "CK",
     "countryISOCode": "COK",
+    "dialCode": "+682",
     "currency": "NZD",
     "flagClass": ".flag .flag-ck"
   },
   {
-    "name": "Pristina",
+    "name": "Kosovo",
     "countryCode": "XK",
     "countryISOCode": "XKX",
+    "dialCode": "+",
     "currency": "EUR",
     "flagClass": ".flag .flag-xk"
   },
   {
-    "name": "Yamoussoukro",
+    "name": "Ivory Coast",
     "countryCode": "CI",
     "countryISOCode": "CIV",
+    "dialCode": "+225",
     "currency": "XOF",
     "flagClass": ".flag .flag-ci"
   },
   {
-    "name": "Berne",
+    "name": "Switzerland",
     "countryCode": "CH",
     "countryISOCode": "CHE",
+    "dialCode": "+41",
     "currency": "CHF",
     "flagClass": ".flag .flag-ch"
   },
   {
-    "name": "Bogota",
+    "name": "Colombia",
     "countryCode": "CO",
     "countryISOCode": "COL",
+    "dialCode": "+57",
     "currency": "COP",
     "flagClass": ".flag .flag-co"
   },
   {
-    "name": "Beijing",
+    "name": "China",
     "countryCode": "CN",
     "countryISOCode": "CHN",
+    "dialCode": "+86",
     "currency": "CNY",
     "flagClass": ".flag .flag-cn"
   },
   {
-    "name": "Yaounde",
+    "name": "Cameroon",
     "countryCode": "CM",
     "countryISOCode": "CMR",
+    "dialCode": "+237",
     "currency": "XAF",
     "flagClass": ".flag .flag-cm"
   },
   {
-    "name": "Santiago",
+    "name": "Chile",
     "countryCode": "CL",
     "countryISOCode": "CHL",
+    "dialCode": "+56",
     "currency": "CLP",
     "flagClass": ".flag .flag-cl"
   },
   {
-    "name": "West Island",
+    "name": "Cocos Islands",
     "countryCode": "CC",
     "countryISOCode": "CCK",
+    "dialCode": "+61",
     "currency": "AUD",
     "flagClass": ".flag .flag-cc"
   },
   {
-    "name": "Ottawa",
+    "name": "Canada",
     "countryCode": "CA",
     "countryISOCode": "CAN",
+    "dialCode": "+1",
     "currency": "CAD",
     "flagClass": ".flag .flag-ca"
   },
   {
-    "name": "Brazzaville",
+    "name": "Republic of the Congo",
     "countryCode": "CG",
     "countryISOCode": "COG",
+    "dialCode": "+242",
     "currency": "XAF",
     "flagClass": ".flag .flag-cg"
   },
   {
-    "name": "Bangui",
+    "name": "Central African Republic",
     "countryCode": "CF",
     "countryISOCode": "CAF",
+    "dialCode": "+236",
     "currency": "XAF",
     "flagClass": ".flag .flag-cf"
   },
   {
-    "name": "Kinshasa",
+    "name": "Democratic Republic of the Congo",
     "countryCode": "CD",
     "countryISOCode": "COD",
+    "dialCode": "+243",
     "currency": "CDF",
     "flagClass": ".flag .flag-cd"
   },
   {
-    "name": "Prague",
+    "name": "Czech Republic",
     "countryCode": "CZ",
     "countryISOCode": "CZE",
+    "dialCode": "+420",
     "currency": "CZK",
     "flagClass": ".flag .flag-cz"
   },
   {
-    "name": "Nicosia",
+    "name": "Cyprus",
     "countryCode": "CY",
     "countryISOCode": "CYP",
+    "dialCode": "+357",
     "currency": "EUR",
     "flagClass": ".flag .flag-cy"
   },
   {
-    "name": "Flying Fish Cove",
+    "name": "Christmas Island",
     "countryCode": "CX",
     "countryISOCode": "CXR",
+    "dialCode": "+61",
     "currency": "AUD",
     "flagClass": ".flag .flag-cx"
   },
   {
-    "name": "San Jose",
+    "name": "Costa Rica",
     "countryCode": "CR",
     "countryISOCode": "CRI",
+    "dialCode": "+506",
     "currency": "CRC",
     "flagClass": ".flag .flag-cr"
   },
   {
-    "name": " Willemstad",
+    "name": "Curacao",
     "countryCode": "CW",
     "countryISOCode": "CUW",
+    "dialCode": "+599",
     "currency": "ANG",
     "flagClass": ".flag .flag-cw"
   },
   {
-    "name": "Praia",
+    "name": "Cape Verde",
     "countryCode": "CV",
     "countryISOCode": "CPV",
+    "dialCode": "+238",
     "currency": "CVE",
     "flagClass": ".flag .flag-cv"
   },
   {
-    "name": "Havana",
+    "name": "Cuba",
     "countryCode": "CU",
     "countryISOCode": "CUB",
+    "dialCode": "+53",
     "currency": "CUP",
     "flagClass": ".flag .flag-cu"
   },
   {
-    "name": "Mbabane",
+    "name": "Swaziland",
     "countryCode": "SZ",
     "countryISOCode": "SWZ",
+    "dialCode": "+268",
     "currency": "SZL",
     "flagClass": ".flag .flag-sz"
   },
   {
-    "name": "Damascus",
+    "name": "Syria",
     "countryCode": "SY",
     "countryISOCode": "SYR",
+    "dialCode": "+963",
     "currency": "SYP",
     "flagClass": ".flag .flag-sy"
   },
   {
-    "name": "Philipsburg",
+    "name": "Sint Maarten",
     "countryCode": "SX",
     "countryISOCode": "SXM",
+    "dialCode": "+599",
     "currency": "ANG",
     "flagClass": ".flag .flag-sx"
   },
   {
-    "name": "Bishkek",
+    "name": "Kyrgyzstan",
     "countryCode": "KG",
     "countryISOCode": "KGZ",
+    "dialCode": "+996",
     "currency": "KGS",
     "flagClass": ".flag .flag-kg"
   },
   {
-    "name": "Nairobi",
+    "name": "Kenya",
     "countryCode": "KE",
     "countryISOCode": "KEN",
+    "dialCode": "+254",
     "currency": "KES",
     "flagClass": ".flag .flag-ke"
   },
   {
-    "name": "Juba",
+    "name": "South Sudan",
     "countryCode": "SS",
     "countryISOCode": "SSD",
+    "dialCode": "+211",
     "currency": "SSP",
     "flagClass": ".flag .flag-ss"
   },
   {
-    "name": "Paramaribo",
+    "name": "Suriname",
     "countryCode": "SR",
     "countryISOCode": "SUR",
+    "dialCode": "+597",
     "currency": "SRD",
     "flagClass": ".flag .flag-sr"
   },
   {
-    "name": "Tarawa",
+    "name": "Kiribati",
     "countryCode": "KI",
     "countryISOCode": "KIR",
+    "dialCode": "+686",
     "currency": "AUD",
     "flagClass": ".flag .flag-ki"
   },
   {
-    "name": "Phnom Penh",
+    "name": "Cambodia",
     "countryCode": "KH",
     "countryISOCode": "KHM",
+    "dialCode": "+855",
     "currency": "KHR",
     "flagClass": ".flag .flag-kh"
   },
   {
-    "name": "Basseterre",
+    "name": "Saint Kitts and Nevis",
     "countryCode": "KN",
     "countryISOCode": "KNA",
+    "dialCode": "+1869",
     "currency": "XCD",
     "flagClass": ".flag .flag-kn"
   },
   {
-    "name": "Moroni",
+    "name": "Comoros",
     "countryCode": "KM",
     "countryISOCode": "COM",
+    "dialCode": "+269",
     "currency": "KMF",
     "flagClass": ".flag .flag-km"
   },
   {
-    "name": "Sao Tome",
+    "name": "Sao Tome and Principe",
     "countryCode": "ST",
     "countryISOCode": "STP",
+    "dialCode": "+239",
     "currency": "STD",
     "flagClass": ".flag .flag-st"
   },
   {
-    "name": "Bratislava",
+    "name": "Slovakia",
     "countryCode": "SK",
     "countryISOCode": "SVK",
+    "dialCode": "+421",
     "currency": "EUR",
     "flagClass": ".flag .flag-sk"
   },
   {
-    "name": "Seoul",
+    "name": "South Korea",
     "countryCode": "KR",
     "countryISOCode": "KOR",
+    "dialCode": "+82",
     "currency": "KRW",
     "flagClass": ".flag .flag-kr"
   },
   {
-    "name": "Ljubljana",
+    "name": "Slovenia",
     "countryCode": "SI",
     "countryISOCode": "SVN",
+    "dialCode": "+386",
     "currency": "EUR",
     "flagClass": ".flag .flag-si"
   },
   {
-    "name": "Pyongyang",
+    "name": "North Korea",
     "countryCode": "KP",
     "countryISOCode": "PRK",
+    "dialCode": "+850",
     "currency": "KPW",
     "flagClass": ".flag .flag-kp"
   },
   {
-    "name": "Kuwait City",
+    "name": "Kuwait",
     "countryCode": "KW",
     "countryISOCode": "KWT",
+    "dialCode": "+965",
     "currency": "KWD",
     "flagClass": ".flag .flag-kw"
   },
   {
-    "name": "Dakar",
+    "name": "Senegal",
     "countryCode": "SN",
     "countryISOCode": "SEN",
+    "dialCode": "+221",
     "currency": "XOF",
     "flagClass": ".flag .flag-sn"
   },
@@ -1277,69 +1459,79 @@
     "name": "San Marino",
     "countryCode": "SM",
     "countryISOCode": "SMR",
+    "dialCode": "+378",
     "currency": "EUR",
     "flagClass": ".flag .flag-sm"
   },
   {
-    "name": "Freetown",
+    "name": "Sierra Leone",
     "countryCode": "SL",
     "countryISOCode": "SLE",
+    "dialCode": "+232",
     "currency": "SLL",
     "flagClass": ".flag .flag-sl"
   },
   {
-    "name": "Victoria",
+    "name": "Seychelles",
     "countryCode": "SC",
     "countryISOCode": "SYC",
+    "dialCode": "+248",
     "currency": "SCR",
     "flagClass": ".flag .flag-sc"
   },
   {
-    "name": "Astana",
+    "name": "Kazakhstan",
     "countryCode": "KZ",
     "countryISOCode": "KAZ",
+    "dialCode": "+7",
     "currency": "KZT",
     "flagClass": ".flag .flag-kz"
   },
   {
-    "name": "George Town",
+    "name": "Cayman Islands",
     "countryCode": "KY",
     "countryISOCode": "CYM",
+    "dialCode": "+1345",
     "currency": "KYD",
     "flagClass": ".flag .flag-ky"
   },
   {
-    "name": "Singapur",
+    "name": "Singapore",
     "countryCode": "SG",
     "countryISOCode": "SGP",
+    "dialCode": "+65",
     "currency": "SGD",
     "flagClass": ".flag .flag-sg"
   },
   {
-    "name": "Stockholm",
+    "name": "Sweden",
     "countryCode": "SE",
     "countryISOCode": "SWE",
+    "dialCode": "+46",
     "currency": "SEK",
     "flagClass": ".flag .flag-se"
   },
   {
-    "name": "Khartoum",
+    "name": "Sudan",
     "countryCode": "SD",
     "countryISOCode": "SDN",
+    "dialCode": "+249",
     "currency": "SDG",
     "flagClass": ".flag .flag-sd"
   },
   {
-    "name": "Santo Domingo",
+    "name": "Dominican Republic",
     "countryCode": "DO",
     "countryISOCode": "DOM",
+    "dialCode": "+1849",
     "currency": "DOP",
     "flagClass": ".flag .flag-do"
   },
   {
-    "name": "Roseau",
+    "name": "Dominica",
     "countryCode": "DM",
     "countryISOCode": "DMA",
+    "dialCode": "+1767",
     "currency": "XCD",
     "flagClass": ".flag .flag-dm"
   },
@@ -1347,62 +1539,71 @@
     "name": "Djibouti",
     "countryCode": "DJ",
     "countryISOCode": "DJI",
+    "dialCode": "+253",
     "currency": "DJF",
     "flagClass": ".flag .flag-dj"
   },
   {
-    "name": "Copenhagen",
+    "name": "Denmark",
     "countryCode": "DK",
     "countryISOCode": "DNK",
+    "dialCode": "+45",
     "currency": "DKK",
     "flagClass": ".flag .flag-dk"
   },
   {
-    "name": "Road Town",
+    "name": "British Virgin Islands",
     "countryCode": "VG",
     "countryISOCode": "VGB",
+    "dialCode": "+1284",
     "currency": "USD",
     "flagClass": ".flag .flag-vg"
   },
   {
-    "name": "Berlin",
+    "name": "Germany",
     "countryCode": "DE",
     "countryISOCode": "DEU",
+    "dialCode": "+49",
     "currency": "EUR",
     "flagClass": ".flag .flag-de"
   },
   {
-    "name": "Sanaa",
+    "name": "Yemen",
     "countryCode": "YE",
     "countryISOCode": "YEM",
+    "dialCode": "+967",
     "currency": "YER",
     "flagClass": ".flag .flag-ye"
   },
   {
-    "name": "Algiers",
+    "name": "Algeria",
     "countryCode": "DZ",
     "countryISOCode": "DZA",
+    "dialCode": "+213",
     "currency": "DZD",
     "flagClass": ".flag .flag-dz"
   },
   {
-    "name": "Washington",
+    "name": "United States",
     "countryCode": "US",
     "countryISOCode": "USA",
+    "dialCode": "+1",
     "currency": "USD",
     "flagClass": ".flag .flag-us"
   },
   {
-    "name": "Montevideo",
+    "name": "Uruguay",
     "countryCode": "UY",
     "countryISOCode": "URY",
+    "dialCode": "+598",
     "currency": "UYU",
     "flagClass": ".flag .flag-uy"
   },
   {
-    "name": "Mamoudzou",
+    "name": "Mayotte",
     "countryCode": "YT",
     "countryISOCode": "MYT",
+    "dialCode": "+262",
     "currency": "EUR",
     "flagClass": ".flag .flag-yt"
   },
@@ -1410,90 +1611,103 @@
     "name": "United States Minor Outlying Islands",
     "countryCode": "UM",
     "countryISOCode": "UMI",
+    "dialCode": "+1",
     "currency": "USD",
     "flagClass": ".flag .flag-um"
   },
   {
-    "name": "Beirut",
+    "name": "Lebanon",
     "countryCode": "LB",
     "countryISOCode": "LBN",
+    "dialCode": "+961",
     "currency": "LBP",
     "flagClass": ".flag .flag-lb"
   },
   {
-    "name": "Castries",
+    "name": "Saint Lucia",
     "countryCode": "LC",
     "countryISOCode": "LCA",
+    "dialCode": "+1758",
     "currency": "XCD",
     "flagClass": ".flag .flag-lc"
   },
   {
-    "name": "Vientiane",
+    "name": "Laos",
     "countryCode": "LA",
     "countryISOCode": "LAO",
+    "dialCode": "+856",
     "currency": "LAK",
     "flagClass": ".flag .flag-la"
   },
   {
-    "name": "Funafuti",
+    "name": "Tuvalu",
     "countryCode": "TV",
     "countryISOCode": "TUV",
+    "dialCode": "+688",
     "currency": "AUD",
     "flagClass": ".flag .flag-tv"
   },
   {
-    "name": "Taipei",
+    "name": "Taiwan",
     "countryCode": "TW",
     "countryISOCode": "TWN",
+    "dialCode": "+886",
     "currency": "TWD",
     "flagClass": ".flag .flag-tw"
   },
   {
-    "name": "Port of Spain",
+    "name": "Trinidad and Tobago",
     "countryCode": "TT",
     "countryISOCode": "TTO",
+    "dialCode": "+1868",
     "currency": "TTD",
     "flagClass": ".flag .flag-tt"
   },
   {
-    "name": "Ankara",
+    "name": "Turkey",
     "countryCode": "TR",
     "countryISOCode": "TUR",
+    "dialCode": "+90",
     "currency": "TRY",
     "flagClass": ".flag .flag-tr"
   },
   {
-    "name": "Colombo",
+    "name": "Sri Lanka",
     "countryCode": "LK",
     "countryISOCode": "LKA",
+    "dialCode": "+94",
     "currency": "LKR",
     "flagClass": ".flag .flag-lk"
   },
   {
-    "name": "Vaduz",
+    "name": "Liechtenstein",
     "countryCode": "LI",
     "countryISOCode": "LIE",
+    "dialCode": "+423",
     "currency": "CHF",
     "flagClass": ".flag .flag-li"
   },
   {
-    "name": "Riga",
+    "name": "Latvia",
     "countryCode": "LV",
     "countryISOCode": "LVA",
+    "dialCode": "+371",
     "currency": "EUR",
     "flagClass": ".flag .flag-lv"
   },
   {
-    "name": "Nuku'alofa",
+    "name": "Tonga",
     "countryCode": "TO",
     "countryISOCode": "TON",
+    "dialCode": "+676",
     "currency": "TOP",
     "flagClass": ".flag .flag-to"
   },
   {
-    "name": "Vilnius",
+    "name": "Lithuania",
     "countryCode": "LT",
     "countryISOCode": "LTU",
+    "dialCode": "+370",
     "currency": "LTL",
     "flagClass": ".flag .flag-lt"
   },
@@ -1501,153 +1715,175 @@
     "name": "Luxembourg",
     "countryCode": "LU",
     "countryISOCode": "LUX",
+    "dialCode": "+352",
     "currency": "EUR",
     "flagClass": ".flag .flag-lu"
   },
   {
-    "name": "Monrovia",
+    "name": "Liberia",
     "countryCode": "LR",
     "countryISOCode": "LBR",
+    "dialCode": "+231",
     "currency": "LRD",
     "flagClass": ".flag .flag-lr"
   },
   {
-    "name": "Maseru",
+    "name": "Lesotho",
     "countryCode": "LS",
     "countryISOCode": "LSO",
+    "dialCode": "+266",
     "currency": "LSL",
     "flagClass": ".flag .flag-ls"
   },
   {
-    "name": "Bangkok",
+    "name": "Thailand",
     "countryCode": "TH",
     "countryISOCode": "THA",
+    "dialCode": "+66",
     "currency": "THB",
     "flagClass": ".flag .flag-th"
   },
   {
-    "name": "Port-aux-Francais",
+    "name": "French Southern Territories",
     "countryCode": "TF",
     "countryISOCode": "ATF",
+    "dialCode": "+",
     "currency": "EUR",
     "flagClass": ".flag .flag-tf"
   },
   {
-    "name": "Lome",
+    "name": "Togo",
     "countryCode": "TG",
     "countryISOCode": "TGO",
+    "dialCode": "+228",
     "currency": "XOF",
     "flagClass": ".flag .flag-tg"
   },
   {
-    "name": "N'Djamena",
+    "name": "Chad",
     "countryCode": "TD",
     "countryISOCode": "TCD",
+    "dialCode": "+235",
     "currency": "XAF",
     "flagClass": ".flag .flag-td"
   },
   {
-    "name": "Cockburn Town",
+    "name": "Turks and Caicos Islands",
     "countryCode": "TC",
     "countryISOCode": "TCA",
+    "dialCode": "+1649",
     "currency": "USD",
     "flagClass": ".flag .flag-tc"
   },
   {
-    "name": "Tripolis",
+    "name": "Libya",
     "countryCode": "LY",
     "countryISOCode": "LBY",
+    "dialCode": "+218",
     "currency": "LYD",
     "flagClass": ".flag .flag-ly"
   },
   {
-    "name": "Vatican City",
+    "name": "Vatican",
     "countryCode": "VA",
     "countryISOCode": "VAT",
+    "dialCode": "+379",
     "currency": "EUR",
     "flagClass": ".flag .flag-va"
   },
   {
-    "name": "Kingstown",
+    "name": "Saint Vincent and the Grenadines",
     "countryCode": "VC",
     "countryISOCode": "VCT",
+    "dialCode": "+1784",
     "currency": "XCD",
     "flagClass": ".flag .flag-vc"
   },
   {
-    "name": "Abu Dhabi",
+    "name": "United Arab Emirates",
     "countryCode": "AE",
     "countryISOCode": "ARE",
+    "dialCode": "+971",
     "currency": "AED",
     "flagClass": ".flag .flag-ae"
   },
   {
-    "name": "Andorra la Vella",
+    "name": "Andorra",
     "countryCode": "AD",
     "countryISOCode": "AND",
+    "dialCode": "+376",
     "currency": "EUR",
     "flagClass": ".flag .flag-ad"
   },
   {
-    "name": "St. John's",
+    "name": "Antigua and Barbuda",
     "countryCode": "AG",
     "countryISOCode": "ATG",
+    "dialCode": "+1268",
     "currency": "XCD",
     "flagClass": ".flag .flag-ag"
   },
   {
-    "name": "Kabul",
+    "name": "Afghanistan",
     "countryCode": "AF",
     "countryISOCode": "AFG",
+    "dialCode": "+93",
     "currency": "AFN",
     "flagClass": ".flag .flag-af"
   },
   {
-    "name": "The Valley",
+    "name": "Anguilla",
     "countryCode": "AI",
     "countryISOCode": "AIA",
+    "dialCode": "+1264",
     "currency": "XCD",
     "flagClass": ".flag .flag-ai"
   },
   {
-    "name": "Charlotte Amalie",
+    "name": "U.S. Virgin Islands",
     "countryCode": "VI",
     "countryISOCode": "VIR",
+    "dialCode": "+1340",
     "currency": "USD",
     "flagClass": ".flag .flag-vi"
   },
   {
-    "name": "Reykjavik",
+    "name": "Iceland",
     "countryCode": "IS",
     "countryISOCode": "ISL",
+    "dialCode": "+354",
     "currency": "ISK",
     "flagClass": ".flag .flag-is"
   },
   {
-    "name": "Tehran",
+    "name": "Iran",
     "countryCode": "IR",
     "countryISOCode": "IRN",
+    "dialCode": "+98",
     "currency": "IRR",
     "flagClass": ".flag .flag-ir"
   },
   {
-    "name": "Yerevan",
+    "name": "Armenia",
     "countryCode": "AM",
     "countryISOCode": "ARM",
+    "dialCode": "+374",
     "currency": "AMD",
     "flagClass": ".flag .flag-am"
   },
   {
-    "name": "Tirana",
+    "name": "Albania",
     "countryCode": "AL",
     "countryISOCode": "ALB",
+    "dialCode": "+355",
     "currency": "ALL",
     "flagClass": ".flag .flag-al"
   },
   {
-    "name": "Luanda",
+    "name": "Angola",
     "countryCode": "AO",
     "countryISOCode": "AGO",
+    "dialCode": "+244",
     "currency": "AOA",
     "flagClass": ".flag .flag-ao"
   },
@@ -1655,97 +1891,111 @@
     "name": "Antarctica",
     "countryCode": "AQ",
     "countryISOCode": "ATA",
+    "dialCode": "+",
     "currency": "",
     "flagClass": ".flag .flag-aq"
   },
   {
-    "name": "Pago Pago",
+    "name": "American Samoa",
     "countryCode": "AS",
     "countryISOCode": "ASM",
+    "dialCode": "+1684",
     "currency": "USD",
     "flagClass": ".flag .flag-as"
   },
   {
-    "name": "Buenos Aires",
+    "name": "Argentina",
     "countryCode": "AR",
     "countryISOCode": "ARG",
+    "dialCode": "+54",
     "currency": "ARS",
     "flagClass": ".flag .flag-ar"
   },
   {
-    "name": "Canberra",
+    "name": "Australia",
     "countryCode": "AU",
     "countryISOCode": "AUS",
+    "dialCode": "+61",
     "currency": "AUD",
     "flagClass": ".flag .flag-au"
   },
   {
-    "name": "Vienna",
+    "name": "Austria",
     "countryCode": "AT",
     "countryISOCode": "AUT",
+    "dialCode": "+43",
     "currency": "EUR",
     "flagClass": ".flag .flag-at"
   },
   {
-    "name": "Oranjestad",
+    "name": "Aruba",
     "countryCode": "AW",
     "countryISOCode": "ABW",
+    "dialCode": "+297",
     "currency": "AWG",
     "flagClass": ".flag .flag-aw"
   },
   {
-    "name": "New Delhi",
+    "name": "India",
     "countryCode": "IN",
     "countryISOCode": "IND",
+    "dialCode": "+91",
     "currency": "INR",
     "flagClass": ".flag .flag-in"
   },
   {
-    "name": "Mariehamn",
+    "name": "Aland Islands",
     "countryCode": "AX",
     "countryISOCode": "ALA",
+    "dialCode": "+358",
     "currency": "EUR",
     "flagClass": ".flag .flag-ax"
   },
   {
-    "name": "Baku",
+    "name": "Azerbaijan",
     "countryCode": "AZ",
     "countryISOCode": "AZE",
+    "dialCode": "+994",
     "currency": "AZN",
     "flagClass": ".flag .flag-az"
   },
   {
-    "name": "Dublin",
+    "name": "Ireland",
     "countryCode": "IE",
     "countryISOCode": "IRL",
+    "dialCode": "+353",
     "currency": "EUR",
     "flagClass": ".flag .flag-ie"
   },
   {
-    "name": "Jakarta",
+    "name": "Indonesia",
     "countryCode": "ID",
     "countryISOCode": "IDN",
+    "dialCode": "+62",
     "currency": "IDR",
     "flagClass": ".flag .flag-id"
   },
   {
-    "name": "Kiev",
+    "name": "Ukraine",
     "countryCode": "UA",
     "countryISOCode": "UKR",
+    "dialCode": "+380",
     "currency": "UAH",
     "flagClass": ".flag .flag-ua"
   },
   {
-    "name": "Doha",
+    "name": "Qatar",
     "countryCode": "QA",
     "countryISOCode": "QAT",
+    "dialCode": "+974",
     "currency": "QAR",
     "flagClass": ".flag .flag-qa"
   },
   {
-    "name": "Maputo",
+    "name": "Mozambique",
     "countryCode": "MZ",
     "countryISOCode": "MOZ",
+    "dialCode": "+258",
     "currency": "MZN",
     "flagClass": ".flag .flag-mz"
   }
