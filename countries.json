@@ -5,7 +5,7 @@
     "countryISOCode": "BGD",
     "dialCode": "+880",
     "currency": "BDT",
-    "flagClass": ".flag .flag-bd"
+    "flagClass": "flag flag-bd"
   },
   {
     "name": "Belgium",
@@ -13,7 +13,7 @@
     "countryISOCode": "BEL",
     "dialCode": "+32",
     "currency": "EUR",
-    "flagClass": ".flag .flag-be"
+    "flagClass": "flag flag-be"
   },
   {
     "name": "Burkina Faso",
@@ -21,7 +21,7 @@
     "countryISOCode": "BFA",
     "dialCode": "+226",
     "currency": "XOF",
-    "flagClass": ".flag .flag-bf"
+    "flagClass": "flag flag-bf"
   },
   {
     "name": "Bulgaria",
@@ -29,7 +29,7 @@
     "countryISOCode": "BGR",
     "dialCode": "+359",
     "currency": "BGN",
-    "flagClass": ".flag .flag-bg"
+    "flagClass": "flag flag-bg"
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -37,7 +37,7 @@
     "countryISOCode": "BIH",
     "dialCode": "+387",
     "currency": "BAM",
-    "flagClass": ".flag .flag-ba"
+    "flagClass": "flag flag-ba"
   },
   {
     "name": "Barbados",
@@ -45,7 +45,7 @@
     "countryISOCode": "BRB",
     "dialCode": "+1246",
     "currency": "BBD",
-    "flagClass": ".flag .flag-bb"
+    "flagClass": "flag flag-bb"
   },
   {
     "name": "Wallis and Futuna",
@@ -53,7 +53,7 @@
     "countryISOCode": "WLF",
     "dialCode": "+681",
     "currency": "XPF",
-    "flagClass": ".flag .flag-wf"
+    "flagClass": "flag flag-wf"
   },
   {
     "name": "Saint Barthelemy",
@@ -61,7 +61,7 @@
     "countryISOCode": "BLM",
     "dialCode": "+590",
     "currency": "EUR",
-    "flagClass": ".flag .flag-bl"
+    "flagClass": "flag flag-bl"
   },
   {
     "name": "Bermuda",
@@ -69,7 +69,7 @@
     "countryISOCode": "BMU",
     "dialCode": "+1441",
     "currency": "BMD",
-    "flagClass": ".flag .flag-bm"
+    "flagClass": "flag flag-bm"
   },
   {
     "name": "Brunei",
@@ -77,7 +77,7 @@
     "countryISOCode": "BRN",
     "dialCode": "+673",
     "currency": "BND",
-    "flagClass": ".flag .flag-bn"
+    "flagClass": "flag flag-bn"
   },
   {
     "name": "Bolivia",
@@ -85,7 +85,7 @@
     "countryISOCode": "BOL",
     "dialCode": "+591",
     "currency": "BOB",
-    "flagClass": ".flag .flag-bo"
+    "flagClass": "flag flag-bo"
   },
   {
     "name": "Bahrain",
@@ -93,7 +93,7 @@
     "countryISOCode": "BHR",
     "dialCode": "+973",
     "currency": "BHD",
-    "flagClass": ".flag .flag-bh"
+    "flagClass": "flag flag-bh"
   },
   {
     "name": "Burundi",
@@ -101,7 +101,7 @@
     "countryISOCode": "BDI",
     "dialCode": "+257",
     "currency": "BIF",
-    "flagClass": ".flag .flag-bi"
+    "flagClass": "flag flag-bi"
   },
   {
     "name": "Benin",
@@ -109,7 +109,7 @@
     "countryISOCode": "BEN",
     "dialCode": "+229",
     "currency": "XOF",
-    "flagClass": ".flag .flag-bj"
+    "flagClass": "flag flag-bj"
   },
   {
     "name": "Bhutan",
@@ -117,7 +117,7 @@
     "countryISOCode": "BTN",
     "dialCode": "+975",
     "currency": "BTN",
-    "flagClass": ".flag .flag-bt"
+    "flagClass": "flag flag-bt"
   },
   {
     "name": "Jamaica",
@@ -125,7 +125,7 @@
     "countryISOCode": "JAM",
     "dialCode": "+1876",
     "currency": "JMD",
-    "flagClass": ".flag .flag-jm"
+    "flagClass": "flag flag-jm"
   },
   {
     "name": "Bouvet Island",
@@ -133,7 +133,7 @@
     "countryISOCode": "BVT",
     "dialCode": "+",
     "currency": "NOK",
-    "flagClass": ".flag .flag-bv"
+    "flagClass": "flag flag-bv"
   },
   {
     "name": "Botswana",
@@ -141,7 +141,7 @@
     "countryISOCode": "BWA",
     "dialCode": "+267",
     "currency": "BWP",
-    "flagClass": ".flag .flag-bw"
+    "flagClass": "flag flag-bw"
   },
   {
     "name": "Samoa",
@@ -149,7 +149,7 @@
     "countryISOCode": "WSM",
     "dialCode": "+685",
     "currency": "WST",
-    "flagClass": ".flag .flag-ws"
+    "flagClass": "flag flag-ws"
   },
   {
     "name": "Bonaire, Saint Eustatius and Saba ",
@@ -157,7 +157,7 @@
     "countryISOCode": "BES",
     "dialCode": "+599",
     "currency": "USD",
-    "flagClass": ".flag .flag-bq"
+    "flagClass": "flag flag-bq"
   },
   {
     "name": "Brazil",
@@ -165,7 +165,7 @@
     "countryISOCode": "BRA",
     "dialCode": "+55",
     "currency": "BRL",
-    "flagClass": ".flag .flag-br"
+    "flagClass": "flag flag-br"
   },
   {
     "name": "Bahamas",
@@ -173,7 +173,7 @@
     "countryISOCode": "BHS",
     "dialCode": "+1242",
     "currency": "BSD",
-    "flagClass": ".flag .flag-bs"
+    "flagClass": "flag flag-bs"
   },
   {
     "name": "Jersey",
@@ -181,7 +181,7 @@
     "countryISOCode": "JEY",
     "dialCode": "+44",
     "currency": "GBP",
-    "flagClass": ".flag .flag-je"
+    "flagClass": "flag flag-je"
   },
   {
     "name": "Belarus",
@@ -189,7 +189,7 @@
     "countryISOCode": "BLR",
     "dialCode": "+375",
     "currency": "BYR",
-    "flagClass": ".flag .flag-by"
+    "flagClass": "flag flag-by"
   },
   {
     "name": "Belize",
@@ -197,7 +197,7 @@
     "countryISOCode": "BLZ",
     "dialCode": "+501",
     "currency": "BZD",
-    "flagClass": ".flag .flag-bz"
+    "flagClass": "flag flag-bz"
   },
   {
     "name": "Russia",
@@ -205,7 +205,7 @@
     "countryISOCode": "RUS",
     "dialCode": "+7",
     "currency": "RUB",
-    "flagClass": ".flag .flag-ru"
+    "flagClass": "flag flag-ru"
   },
   {
     "name": "Rwanda",
@@ -213,7 +213,7 @@
     "countryISOCode": "RWA",
     "dialCode": "+250",
     "currency": "RWF",
-    "flagClass": ".flag .flag-rw"
+    "flagClass": "flag flag-rw"
   },
   {
     "name": "Serbia",
@@ -221,7 +221,7 @@
     "countryISOCode": "SRB",
     "dialCode": "+381",
     "currency": "RSD",
-    "flagClass": ".flag .flag-rs"
+    "flagClass": "flag flag-rs"
   },
   {
     "name": "East Timor",
@@ -229,7 +229,7 @@
     "countryISOCode": "TLS",
     "dialCode": "+670",
     "currency": "USD",
-    "flagClass": ".flag .flag-tl"
+    "flagClass": "flag flag-tl"
   },
   {
     "name": "Reunion",
@@ -237,7 +237,7 @@
     "countryISOCode": "REU",
     "dialCode": "+262",
     "currency": "EUR",
-    "flagClass": ".flag .flag-re"
+    "flagClass": "flag flag-re"
   },
   {
     "name": "Turkmenistan",
@@ -245,7 +245,7 @@
     "countryISOCode": "TKM",
     "dialCode": "+993",
     "currency": "TMT",
-    "flagClass": ".flag .flag-tm"
+    "flagClass": "flag flag-tm"
   },
   {
     "name": "Tajikistan",
@@ -253,7 +253,7 @@
     "countryISOCode": "TJK",
     "dialCode": "+992",
     "currency": "TJS",
-    "flagClass": ".flag .flag-tj"
+    "flagClass": "flag flag-tj"
   },
   {
     "name": "Romania",
@@ -261,7 +261,7 @@
     "countryISOCode": "ROU",
     "dialCode": "+40",
     "currency": "RON",
-    "flagClass": ".flag .flag-ro"
+    "flagClass": "flag flag-ro"
   },
   {
     "name": "Tokelau",
@@ -269,7 +269,7 @@
     "countryISOCode": "TKL",
     "dialCode": "+690",
     "currency": "NZD",
-    "flagClass": ".flag .flag-tk"
+    "flagClass": "flag flag-tk"
   },
   {
     "name": "Guinea-Bissau",
@@ -277,7 +277,7 @@
     "countryISOCode": "GNB",
     "dialCode": "+245",
     "currency": "XOF",
-    "flagClass": ".flag .flag-gw"
+    "flagClass": "flag flag-gw"
   },
   {
     "name": "Guam",
@@ -285,7 +285,7 @@
     "countryISOCode": "GUM",
     "dialCode": "+1671",
     "currency": "USD",
-    "flagClass": ".flag .flag-gu"
+    "flagClass": "flag flag-gu"
   },
   {
     "name": "Guatemala",
@@ -293,7 +293,7 @@
     "countryISOCode": "GTM",
     "dialCode": "+502",
     "currency": "GTQ",
-    "flagClass": ".flag .flag-gt"
+    "flagClass": "flag flag-gt"
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
@@ -301,7 +301,7 @@
     "countryISOCode": "SGS",
     "dialCode": "+",
     "currency": "GBP",
-    "flagClass": ".flag .flag-gs"
+    "flagClass": "flag flag-gs"
   },
   {
     "name": "Greece",
@@ -309,7 +309,7 @@
     "countryISOCode": "GRC",
     "dialCode": "+30",
     "currency": "EUR",
-    "flagClass": ".flag .flag-gr"
+    "flagClass": "flag flag-gr"
   },
   {
     "name": "Equatorial Guinea",
@@ -317,7 +317,7 @@
     "countryISOCode": "GNQ",
     "dialCode": "+240",
     "currency": "XAF",
-    "flagClass": ".flag .flag-gq"
+    "flagClass": "flag flag-gq"
   },
   {
     "name": "Guadeloupe",
@@ -325,7 +325,7 @@
     "countryISOCode": "GLP",
     "dialCode": "+590",
     "currency": "EUR",
-    "flagClass": ".flag .flag-gp"
+    "flagClass": "flag flag-gp"
   },
   {
     "name": "Japan",
@@ -333,7 +333,7 @@
     "countryISOCode": "JPN",
     "dialCode": "+81",
     "currency": "JPY",
-    "flagClass": ".flag .flag-jp"
+    "flagClass": "flag flag-jp"
   },
   {
     "name": "Guyana",
@@ -341,7 +341,7 @@
     "countryISOCode": "GUY",
     "dialCode": "+592",
     "currency": "GYD",
-    "flagClass": ".flag .flag-gy"
+    "flagClass": "flag flag-gy"
   },
   {
     "name": "Guernsey",
@@ -349,7 +349,7 @@
     "countryISOCode": "GGY",
     "dialCode": "+44",
     "currency": "GBP",
-    "flagClass": ".flag .flag-gg"
+    "flagClass": "flag flag-gg"
   },
   {
     "name": "French Guiana",
@@ -357,7 +357,7 @@
     "countryISOCode": "GUF",
     "dialCode": "+594",
     "currency": "EUR",
-    "flagClass": ".flag .flag-gf"
+    "flagClass": "flag flag-gf"
   },
   {
     "name": "Georgia",
@@ -365,7 +365,7 @@
     "countryISOCode": "GEO",
     "dialCode": "+995",
     "currency": "GEL",
-    "flagClass": ".flag .flag-ge"
+    "flagClass": "flag flag-ge"
   },
   {
     "name": "Grenada",
@@ -373,7 +373,7 @@
     "countryISOCode": "GRD",
     "dialCode": "+1473",
     "currency": "XCD",
-    "flagClass": ".flag .flag-gd"
+    "flagClass": "flag flag-gd"
   },
   {
     "name": "United Kingdom",
@@ -381,7 +381,7 @@
     "countryISOCode": "GBR",
     "dialCode": "+44",
     "currency": "GBP",
-    "flagClass": ".flag .flag-gb"
+    "flagClass": "flag flag-gb"
   },
   {
     "name": "Gabon",
@@ -389,7 +389,7 @@
     "countryISOCode": "GAB",
     "dialCode": "+241",
     "currency": "XAF",
-    "flagClass": ".flag .flag-ga"
+    "flagClass": "flag flag-ga"
   },
   {
     "name": "El Salvador",
@@ -397,7 +397,7 @@
     "countryISOCode": "SLV",
     "dialCode": "+503",
     "currency": "USD",
-    "flagClass": ".flag .flag-sv"
+    "flagClass": "flag flag-sv"
   },
   {
     "name": "Guinea",
@@ -405,7 +405,7 @@
     "countryISOCode": "GIN",
     "dialCode": "+224",
     "currency": "GNF",
-    "flagClass": ".flag .flag-gn"
+    "flagClass": "flag flag-gn"
   },
   {
     "name": "Gambia",
@@ -413,7 +413,7 @@
     "countryISOCode": "GMB",
     "dialCode": "+220",
     "currency": "GMD",
-    "flagClass": ".flag .flag-gm"
+    "flagClass": "flag flag-gm"
   },
   {
     "name": "Greenland",
@@ -421,7 +421,7 @@
     "countryISOCode": "GRL",
     "dialCode": "+299",
     "currency": "DKK",
-    "flagClass": ".flag .flag-gl"
+    "flagClass": "flag flag-gl"
   },
   {
     "name": "Gibraltar",
@@ -429,7 +429,7 @@
     "countryISOCode": "GIB",
     "dialCode": "+350",
     "currency": "GIP",
-    "flagClass": ".flag .flag-gi"
+    "flagClass": "flag flag-gi"
   },
   {
     "name": "Ghana",
@@ -437,7 +437,7 @@
     "countryISOCode": "GHA",
     "dialCode": "+233",
     "currency": "GHS",
-    "flagClass": ".flag .flag-gh"
+    "flagClass": "flag flag-gh"
   },
   {
     "name": "Oman",
@@ -445,7 +445,7 @@
     "countryISOCode": "OMN",
     "dialCode": "+968",
     "currency": "OMR",
-    "flagClass": ".flag .flag-om"
+    "flagClass": "flag flag-om"
   },
   {
     "name": "Tunisia",
@@ -453,7 +453,7 @@
     "countryISOCode": "TUN",
     "dialCode": "+216",
     "currency": "TND",
-    "flagClass": ".flag .flag-tn"
+    "flagClass": "flag flag-tn"
   },
   {
     "name": "Jordan",
@@ -461,7 +461,7 @@
     "countryISOCode": "JOR",
     "dialCode": "+962",
     "currency": "JOD",
-    "flagClass": ".flag .flag-jo"
+    "flagClass": "flag flag-jo"
   },
   {
     "name": "Croatia",
@@ -469,7 +469,7 @@
     "countryISOCode": "HRV",
     "dialCode": "+385",
     "currency": "HRK",
-    "flagClass": ".flag .flag-hr"
+    "flagClass": "flag flag-hr"
   },
   {
     "name": "Haiti",
@@ -477,7 +477,7 @@
     "countryISOCode": "HTI",
     "dialCode": "+509",
     "currency": "HTG",
-    "flagClass": ".flag .flag-ht"
+    "flagClass": "flag flag-ht"
   },
   {
     "name": "Hungary",
@@ -485,7 +485,7 @@
     "countryISOCode": "HUN",
     "dialCode": "+36",
     "currency": "HUF",
-    "flagClass": ".flag .flag-hu"
+    "flagClass": "flag flag-hu"
   },
   {
     "name": "Hong Kong",
@@ -493,7 +493,7 @@
     "countryISOCode": "HKG",
     "dialCode": "+852",
     "currency": "HKD",
-    "flagClass": ".flag .flag-hk"
+    "flagClass": "flag flag-hk"
   },
   {
     "name": "Honduras",
@@ -501,7 +501,7 @@
     "countryISOCode": "HND",
     "dialCode": "+504",
     "currency": "HNL",
-    "flagClass": ".flag .flag-hn"
+    "flagClass": "flag flag-hn"
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -509,7 +509,7 @@
     "countryISOCode": "HMD",
     "dialCode": "+ ",
     "currency": "AUD",
-    "flagClass": ".flag .flag-hm"
+    "flagClass": "flag flag-hm"
   },
   {
     "name": "Venezuela",
@@ -517,7 +517,7 @@
     "countryISOCode": "VEN",
     "dialCode": "+58",
     "currency": "VEF",
-    "flagClass": ".flag .flag-ve"
+    "flagClass": "flag flag-ve"
   },
   {
     "name": "Puerto Rico",
@@ -525,7 +525,7 @@
     "countryISOCode": "PRI",
     "dialCode": "+1939",
     "currency": "USD",
-    "flagClass": ".flag .flag-pr"
+    "flagClass": "flag flag-pr"
   },
   {
     "name": "Palestinian Territory",
@@ -533,7 +533,7 @@
     "countryISOCode": "PSE",
     "dialCode": "+970",
     "currency": "ILS",
-    "flagClass": ".flag .flag-ps"
+    "flagClass": "flag flag-ps"
   },
   {
     "name": "Palau",
@@ -541,7 +541,7 @@
     "countryISOCode": "PLW",
     "dialCode": "+680",
     "currency": "USD",
-    "flagClass": ".flag .flag-pw"
+    "flagClass": "flag flag-pw"
   },
   {
     "name": "Portugal",
@@ -549,7 +549,7 @@
     "countryISOCode": "PRT",
     "dialCode": "+351",
     "currency": "EUR",
-    "flagClass": ".flag .flag-pt"
+    "flagClass": "flag flag-pt"
   },
   {
     "name": "Svalbard and Jan Mayen",
@@ -557,7 +557,7 @@
     "countryISOCode": "SJM",
     "dialCode": "+47",
     "currency": "NOK",
-    "flagClass": ".flag .flag-sj"
+    "flagClass": "flag flag-sj"
   },
   {
     "name": "Paraguay",
@@ -565,7 +565,7 @@
     "countryISOCode": "PRY",
     "dialCode": "+595",
     "currency": "PYG",
-    "flagClass": ".flag .flag-py"
+    "flagClass": "flag flag-py"
   },
   {
     "name": "Iraq",
@@ -573,7 +573,7 @@
     "countryISOCode": "IRQ",
     "dialCode": "+964",
     "currency": "IQD",
-    "flagClass": ".flag .flag-iq"
+    "flagClass": "flag flag-iq"
   },
   {
     "name": "Panama",
@@ -581,7 +581,7 @@
     "countryISOCode": "PAN",
     "dialCode": "+507",
     "currency": "PAB",
-    "flagClass": ".flag .flag-pa"
+    "flagClass": "flag flag-pa"
   },
   {
     "name": "French Polynesia",
@@ -589,7 +589,7 @@
     "countryISOCode": "PYF",
     "dialCode": "+689",
     "currency": "XPF",
-    "flagClass": ".flag .flag-pf"
+    "flagClass": "flag flag-pf"
   },
   {
     "name": "Papua New Guinea",
@@ -597,7 +597,7 @@
     "countryISOCode": "PNG",
     "dialCode": "+675",
     "currency": "PGK",
-    "flagClass": ".flag .flag-pg"
+    "flagClass": "flag flag-pg"
   },
   {
     "name": "Peru",
@@ -605,7 +605,7 @@
     "countryISOCode": "PER",
     "dialCode": "+51",
     "currency": "PEN",
-    "flagClass": ".flag .flag-pe"
+    "flagClass": "flag flag-pe"
   },
   {
     "name": "Pakistan",
@@ -613,7 +613,7 @@
     "countryISOCode": "PAK",
     "dialCode": "+92",
     "currency": "PKR",
-    "flagClass": ".flag .flag-pk"
+    "flagClass": "flag flag-pk"
   },
   {
     "name": "Philippines",
@@ -621,7 +621,7 @@
     "countryISOCode": "PHL",
     "dialCode": "+63",
     "currency": "PHP",
-    "flagClass": ".flag .flag-ph"
+    "flagClass": "flag flag-ph"
   },
   {
     "name": "Pitcairn",
@@ -629,7 +629,7 @@
     "countryISOCode": "PCN",
     "dialCode": "+870",
     "currency": "NZD",
-    "flagClass": ".flag .flag-pn"
+    "flagClass": "flag flag-pn"
   },
   {
     "name": "Poland",
@@ -637,7 +637,7 @@
     "countryISOCode": "POL",
     "dialCode": "+48",
     "currency": "PLN",
-    "flagClass": ".flag .flag-pl"
+    "flagClass": "flag flag-pl"
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -645,7 +645,7 @@
     "countryISOCode": "SPM",
     "dialCode": "+508",
     "currency": "EUR",
-    "flagClass": ".flag .flag-pm"
+    "flagClass": "flag flag-pm"
   },
   {
     "name": "Zambia",
@@ -653,7 +653,7 @@
     "countryISOCode": "ZMB",
     "dialCode": "+260",
     "currency": "ZMK",
-    "flagClass": ".flag .flag-zm"
+    "flagClass": "flag flag-zm"
   },
   {
     "name": "Western Sahara",
@@ -661,7 +661,7 @@
     "countryISOCode": "ESH",
     "dialCode": "+212",
     "currency": "MAD",
-    "flagClass": ".flag .flag-eh"
+    "flagClass": "flag flag-eh"
   },
   {
     "name": "Estonia",
@@ -669,7 +669,7 @@
     "countryISOCode": "EST",
     "dialCode": "+372",
     "currency": "EUR",
-    "flagClass": ".flag .flag-ee"
+    "flagClass": "flag flag-ee"
   },
   {
     "name": "Egypt",
@@ -677,7 +677,7 @@
     "countryISOCode": "EGY",
     "dialCode": "+20",
     "currency": "EGP",
-    "flagClass": ".flag .flag-eg"
+    "flagClass": "flag flag-eg"
   },
   {
     "name": "South Africa",
@@ -685,7 +685,7 @@
     "countryISOCode": "ZAF",
     "dialCode": "+27",
     "currency": "ZAR",
-    "flagClass": ".flag .flag-za"
+    "flagClass": "flag flag-za"
   },
   {
     "name": "Ecuador",
@@ -693,7 +693,7 @@
     "countryISOCode": "ECU",
     "dialCode": "+593",
     "currency": "USD",
-    "flagClass": ".flag .flag-ec"
+    "flagClass": "flag flag-ec"
   },
   {
     "name": "Italy",
@@ -701,7 +701,7 @@
     "countryISOCode": "ITA",
     "dialCode": "+39",
     "currency": "EUR",
-    "flagClass": ".flag .flag-it"
+    "flagClass": "flag flag-it"
   },
   {
     "name": "Vietnam",
@@ -709,7 +709,7 @@
     "countryISOCode": "VNM",
     "dialCode": "+84",
     "currency": "VND",
-    "flagClass": ".flag .flag-vn"
+    "flagClass": "flag flag-vn"
   },
   {
     "name": "Solomon Islands",
@@ -717,7 +717,7 @@
     "countryISOCode": "SLB",
     "dialCode": "+677",
     "currency": "SBD",
-    "flagClass": ".flag .flag-sb"
+    "flagClass": "flag flag-sb"
   },
   {
     "name": "Ethiopia",
@@ -725,7 +725,7 @@
     "countryISOCode": "ETH",
     "dialCode": "+251",
     "currency": "ETB",
-    "flagClass": ".flag .flag-et"
+    "flagClass": "flag flag-et"
   },
   {
     "name": "Somalia",
@@ -733,7 +733,7 @@
     "countryISOCode": "SOM",
     "dialCode": "+252",
     "currency": "SOS",
-    "flagClass": ".flag .flag-so"
+    "flagClass": "flag flag-so"
   },
   {
     "name": "Zimbabwe",
@@ -741,7 +741,7 @@
     "countryISOCode": "ZWE",
     "dialCode": "+263",
     "currency": "ZWL",
-    "flagClass": ".flag .flag-zw"
+    "flagClass": "flag flag-zw"
   },
   {
     "name": "Saudi Arabia",
@@ -749,7 +749,7 @@
     "countryISOCode": "SAU",
     "dialCode": "+966",
     "currency": "SAR",
-    "flagClass": ".flag .flag-sa"
+    "flagClass": "flag flag-sa"
   },
   {
     "name": "Spain",
@@ -757,7 +757,7 @@
     "countryISOCode": "ESP",
     "dialCode": "+34",
     "currency": "EUR",
-    "flagClass": ".flag .flag-es"
+    "flagClass": "flag flag-es"
   },
   {
     "name": "Eritrea",
@@ -765,7 +765,7 @@
     "countryISOCode": "ERI",
     "dialCode": "+291",
     "currency": "ERN",
-    "flagClass": ".flag .flag-er"
+    "flagClass": "flag flag-er"
   },
   {
     "name": "Montenegro",
@@ -773,7 +773,7 @@
     "countryISOCode": "MNE",
     "dialCode": "+382",
     "currency": "EUR",
-    "flagClass": ".flag .flag-me"
+    "flagClass": "flag flag-me"
   },
   {
     "name": "Moldova",
@@ -781,7 +781,7 @@
     "countryISOCode": "MDA",
     "dialCode": "+373",
     "currency": "MDL",
-    "flagClass": ".flag .flag-md"
+    "flagClass": "flag flag-md"
   },
   {
     "name": "Madagascar",
@@ -789,7 +789,7 @@
     "countryISOCode": "MDG",
     "dialCode": "+261",
     "currency": "MGA",
-    "flagClass": ".flag .flag-mg"
+    "flagClass": "flag flag-mg"
   },
   {
     "name": "Saint Martin",
@@ -797,7 +797,7 @@
     "countryISOCode": "MAF",
     "dialCode": "+590",
     "currency": "EUR",
-    "flagClass": ".flag .flag-mf"
+    "flagClass": "flag flag-mf"
   },
   {
     "name": "Morocco",
@@ -805,7 +805,7 @@
     "countryISOCode": "MAR",
     "dialCode": "+212",
     "currency": "MAD",
-    "flagClass": ".flag .flag-ma"
+    "flagClass": "flag flag-ma"
   },
   {
     "name": "Monaco",
@@ -813,7 +813,7 @@
     "countryISOCode": "MCO",
     "dialCode": "+377",
     "currency": "EUR",
-    "flagClass": ".flag .flag-mc"
+    "flagClass": "flag flag-mc"
   },
   {
     "name": "Uzbekistan",
@@ -821,7 +821,7 @@
     "countryISOCode": "UZB",
     "dialCode": "+998",
     "currency": "UZS",
-    "flagClass": ".flag .flag-uz"
+    "flagClass": "flag flag-uz"
   },
   {
     "name": "Myanmar",
@@ -829,7 +829,7 @@
     "countryISOCode": "MMR",
     "dialCode": "+95",
     "currency": "MMK",
-    "flagClass": ".flag .flag-mm"
+    "flagClass": "flag flag-mm"
   },
   {
     "name": "Mali",
@@ -837,7 +837,7 @@
     "countryISOCode": "MLI",
     "dialCode": "+223",
     "currency": "XOF",
-    "flagClass": ".flag .flag-ml"
+    "flagClass": "flag flag-ml"
   },
   {
     "name": "Macao",
@@ -845,7 +845,7 @@
     "countryISOCode": "MAC",
     "dialCode": "+853",
     "currency": "MOP",
-    "flagClass": ".flag .flag-mo"
+    "flagClass": "flag flag-mo"
   },
   {
     "name": "Mongolia",
@@ -853,7 +853,7 @@
     "countryISOCode": "MNG",
     "dialCode": "+976",
     "currency": "MNT",
-    "flagClass": ".flag .flag-mn"
+    "flagClass": "flag flag-mn"
   },
   {
     "name": "Marshall Islands",
@@ -861,7 +861,7 @@
     "countryISOCode": "MHL",
     "dialCode": "+692",
     "currency": "USD",
-    "flagClass": ".flag .flag-mh"
+    "flagClass": "flag flag-mh"
   },
   {
     "name": "Macedonia",
@@ -869,7 +869,7 @@
     "countryISOCode": "MKD",
     "dialCode": "+389",
     "currency": "MKD",
-    "flagClass": ".flag .flag-mk"
+    "flagClass": "flag flag-mk"
   },
   {
     "name": "Mauritius",
@@ -877,7 +877,7 @@
     "countryISOCode": "MUS",
     "dialCode": "+230",
     "currency": "MUR",
-    "flagClass": ".flag .flag-mu"
+    "flagClass": "flag flag-mu"
   },
   {
     "name": "Malta",
@@ -885,7 +885,7 @@
     "countryISOCode": "MLT",
     "dialCode": "+356",
     "currency": "EUR",
-    "flagClass": ".flag .flag-mt"
+    "flagClass": "flag flag-mt"
   },
   {
     "name": "Malawi",
@@ -893,7 +893,7 @@
     "countryISOCode": "MWI",
     "dialCode": "+265",
     "currency": "MWK",
-    "flagClass": ".flag .flag-mw"
+    "flagClass": "flag flag-mw"
   },
   {
     "name": "Maldives",
@@ -901,7 +901,7 @@
     "countryISOCode": "MDV",
     "dialCode": "+960",
     "currency": "MVR",
-    "flagClass": ".flag .flag-mv"
+    "flagClass": "flag flag-mv"
   },
   {
     "name": "Martinique",
@@ -909,7 +909,7 @@
     "countryISOCode": "MTQ",
     "dialCode": "+596",
     "currency": "EUR",
-    "flagClass": ".flag .flag-mq"
+    "flagClass": "flag flag-mq"
   },
   {
     "name": "Northern Mariana Islands",
@@ -917,7 +917,7 @@
     "countryISOCode": "MNP",
     "dialCode": "+1670",
     "currency": "USD",
-    "flagClass": ".flag .flag-mp"
+    "flagClass": "flag flag-mp"
   },
   {
     "name": "Montserrat",
@@ -925,7 +925,7 @@
     "countryISOCode": "MSR",
     "dialCode": "+1664",
     "currency": "XCD",
-    "flagClass": ".flag .flag-ms"
+    "flagClass": "flag flag-ms"
   },
   {
     "name": "Mauritania",
@@ -933,7 +933,7 @@
     "countryISOCode": "MRT",
     "dialCode": "+222",
     "currency": "MRO",
-    "flagClass": ".flag .flag-mr"
+    "flagClass": "flag flag-mr"
   },
   {
     "name": "Isle of Man",
@@ -941,7 +941,7 @@
     "countryISOCode": "IMN",
     "dialCode": "+44",
     "currency": "GBP",
-    "flagClass": ".flag .flag-im"
+    "flagClass": "flag flag-im"
   },
   {
     "name": "Uganda",
@@ -949,7 +949,7 @@
     "countryISOCode": "UGA",
     "dialCode": "+256",
     "currency": "UGX",
-    "flagClass": ".flag .flag-ug"
+    "flagClass": "flag flag-ug"
   },
   {
     "name": "Tanzania",
@@ -957,7 +957,7 @@
     "countryISOCode": "TZA",
     "dialCode": "+255",
     "currency": "TZS",
-    "flagClass": ".flag .flag-tz"
+    "flagClass": "flag flag-tz"
   },
   {
     "name": "Malaysia",
@@ -965,7 +965,7 @@
     "countryISOCode": "MYS",
     "dialCode": "+60",
     "currency": "MYR",
-    "flagClass": ".flag .flag-my"
+    "flagClass": "flag flag-my"
   },
   {
     "name": "Mexico",
@@ -973,7 +973,7 @@
     "countryISOCode": "MEX",
     "dialCode": "+52",
     "currency": "MXN",
-    "flagClass": ".flag .flag-mx"
+    "flagClass": "flag flag-mx"
   },
   {
     "name": "Israel",
@@ -981,7 +981,7 @@
     "countryISOCode": "ISR",
     "dialCode": "+972",
     "currency": "ILS",
-    "flagClass": ".flag .flag-il"
+    "flagClass": "flag flag-il"
   },
   {
     "name": "France",
@@ -989,7 +989,7 @@
     "countryISOCode": "FRA",
     "dialCode": "+33",
     "currency": "EUR",
-    "flagClass": ".flag .flag-fr"
+    "flagClass": "flag flag-fr"
   },
   {
     "name": "British Indian Ocean Territory",
@@ -997,7 +997,7 @@
     "countryISOCode": "IOT",
     "dialCode": "+246",
     "currency": "USD",
-    "flagClass": ".flag .flag-io"
+    "flagClass": "flag flag-io"
   },
   {
     "name": "Saint Helena",
@@ -1005,7 +1005,7 @@
     "countryISOCode": "SHN",
     "dialCode": "+290",
     "currency": "SHP",
-    "flagClass": ".flag .flag-sh"
+    "flagClass": "flag flag-sh"
   },
   {
     "name": "Finland",
@@ -1013,7 +1013,7 @@
     "countryISOCode": "FIN",
     "dialCode": "+358",
     "currency": "EUR",
-    "flagClass": ".flag .flag-fi"
+    "flagClass": "flag flag-fi"
   },
   {
     "name": "Fiji",
@@ -1021,7 +1021,7 @@
     "countryISOCode": "FJI",
     "dialCode": "+679",
     "currency": "FJD",
-    "flagClass": ".flag .flag-fj"
+    "flagClass": "flag flag-fj"
   },
   {
     "name": "Falkland Islands",
@@ -1029,7 +1029,7 @@
     "countryISOCode": "FLK",
     "dialCode": "+500",
     "currency": "FKP",
-    "flagClass": ".flag .flag-fk"
+    "flagClass": "flag flag-fk"
   },
   {
     "name": "Micronesia",
@@ -1037,7 +1037,7 @@
     "countryISOCode": "FSM",
     "dialCode": "+691",
     "currency": "USD",
-    "flagClass": ".flag .flag-fm"
+    "flagClass": "flag flag-fm"
   },
   {
     "name": "Faroe Islands",
@@ -1045,7 +1045,7 @@
     "countryISOCode": "FRO",
     "dialCode": "+298",
     "currency": "DKK",
-    "flagClass": ".flag .flag-fo"
+    "flagClass": "flag flag-fo"
   },
   {
     "name": "Nicaragua",
@@ -1053,7 +1053,7 @@
     "countryISOCode": "NIC",
     "dialCode": "+505",
     "currency": "NIO",
-    "flagClass": ".flag .flag-ni"
+    "flagClass": "flag flag-ni"
   },
   {
     "name": "Netherlands",
@@ -1061,7 +1061,7 @@
     "countryISOCode": "NLD",
     "dialCode": "+31",
     "currency": "EUR",
-    "flagClass": ".flag .flag-nl"
+    "flagClass": "flag flag-nl"
   },
   {
     "name": "Norway",
@@ -1069,7 +1069,7 @@
     "countryISOCode": "NOR",
     "dialCode": "+47",
     "currency": "NOK",
-    "flagClass": ".flag .flag-no"
+    "flagClass": "flag flag-no"
   },
   {
     "name": "Namibia",
@@ -1077,7 +1077,7 @@
     "countryISOCode": "NAM",
     "dialCode": "+264",
     "currency": "NAD",
-    "flagClass": ".flag .flag-na"
+    "flagClass": "flag flag-na"
   },
   {
     "name": "Vanuatu",
@@ -1085,7 +1085,7 @@
     "countryISOCode": "VUT",
     "dialCode": "+678",
     "currency": "VUV",
-    "flagClass": ".flag .flag-vu"
+    "flagClass": "flag flag-vu"
   },
   {
     "name": "New Caledonia",
@@ -1093,7 +1093,7 @@
     "countryISOCode": "NCL",
     "dialCode": "+687",
     "currency": "XPF",
-    "flagClass": ".flag .flag-nc"
+    "flagClass": "flag flag-nc"
   },
   {
     "name": "Niger",
@@ -1101,7 +1101,7 @@
     "countryISOCode": "NER",
     "dialCode": "+227",
     "currency": "XOF",
-    "flagClass": ".flag .flag-ne"
+    "flagClass": "flag flag-ne"
   },
   {
     "name": "Norfolk Island",
@@ -1109,7 +1109,7 @@
     "countryISOCode": "NFK",
     "dialCode": "+672",
     "currency": "AUD",
-    "flagClass": ".flag .flag-nf"
+    "flagClass": "flag flag-nf"
   },
   {
     "name": "Nigeria",
@@ -1117,7 +1117,7 @@
     "countryISOCode": "NGA",
     "dialCode": "+234",
     "currency": "NGN",
-    "flagClass": ".flag .flag-ng"
+    "flagClass": "flag flag-ng"
   },
   {
     "name": "New Zealand",
@@ -1125,7 +1125,7 @@
     "countryISOCode": "NZL",
     "dialCode": "+64",
     "currency": "NZD",
-    "flagClass": ".flag .flag-nz"
+    "flagClass": "flag flag-nz"
   },
   {
     "name": "Nepal",
@@ -1133,7 +1133,7 @@
     "countryISOCode": "NPL",
     "dialCode": "+977",
     "currency": "NPR",
-    "flagClass": ".flag .flag-np"
+    "flagClass": "flag flag-np"
   },
   {
     "name": "Nauru",
@@ -1141,7 +1141,7 @@
     "countryISOCode": "NRU",
     "dialCode": "+674",
     "currency": "AUD",
-    "flagClass": ".flag .flag-nr"
+    "flagClass": "flag flag-nr"
   },
   {
     "name": "Niue",
@@ -1149,7 +1149,7 @@
     "countryISOCode": "NIU",
     "dialCode": "+683",
     "currency": "NZD",
-    "flagClass": ".flag .flag-nu"
+    "flagClass": "flag flag-nu"
   },
   {
     "name": "Cook Islands",
@@ -1157,7 +1157,7 @@
     "countryISOCode": "COK",
     "dialCode": "+682",
     "currency": "NZD",
-    "flagClass": ".flag .flag-ck"
+    "flagClass": "flag flag-ck"
   },
   {
     "name": "Kosovo",
@@ -1165,7 +1165,7 @@
     "countryISOCode": "XKX",
     "dialCode": "+",
     "currency": "EUR",
-    "flagClass": ".flag .flag-xk"
+    "flagClass": "flag flag-xk"
   },
   {
     "name": "Ivory Coast",
@@ -1173,7 +1173,7 @@
     "countryISOCode": "CIV",
     "dialCode": "+225",
     "currency": "XOF",
-    "flagClass": ".flag .flag-ci"
+    "flagClass": "flag flag-ci"
   },
   {
     "name": "Switzerland",
@@ -1181,7 +1181,7 @@
     "countryISOCode": "CHE",
     "dialCode": "+41",
     "currency": "CHF",
-    "flagClass": ".flag .flag-ch"
+    "flagClass": "flag flag-ch"
   },
   {
     "name": "Colombia",
@@ -1189,7 +1189,7 @@
     "countryISOCode": "COL",
     "dialCode": "+57",
     "currency": "COP",
-    "flagClass": ".flag .flag-co"
+    "flagClass": "flag flag-co"
   },
   {
     "name": "China",
@@ -1197,7 +1197,7 @@
     "countryISOCode": "CHN",
     "dialCode": "+86",
     "currency": "CNY",
-    "flagClass": ".flag .flag-cn"
+    "flagClass": "flag flag-cn"
   },
   {
     "name": "Cameroon",
@@ -1205,7 +1205,7 @@
     "countryISOCode": "CMR",
     "dialCode": "+237",
     "currency": "XAF",
-    "flagClass": ".flag .flag-cm"
+    "flagClass": "flag flag-cm"
   },
   {
     "name": "Chile",
@@ -1213,7 +1213,7 @@
     "countryISOCode": "CHL",
     "dialCode": "+56",
     "currency": "CLP",
-    "flagClass": ".flag .flag-cl"
+    "flagClass": "flag flag-cl"
   },
   {
     "name": "Cocos Islands",
@@ -1221,7 +1221,7 @@
     "countryISOCode": "CCK",
     "dialCode": "+61",
     "currency": "AUD",
-    "flagClass": ".flag .flag-cc"
+    "flagClass": "flag flag-cc"
   },
   {
     "name": "Canada",
@@ -1229,7 +1229,7 @@
     "countryISOCode": "CAN",
     "dialCode": "+1",
     "currency": "CAD",
-    "flagClass": ".flag .flag-ca"
+    "flagClass": "flag flag-ca"
   },
   {
     "name": "Republic of the Congo",
@@ -1237,7 +1237,7 @@
     "countryISOCode": "COG",
     "dialCode": "+242",
     "currency": "XAF",
-    "flagClass": ".flag .flag-cg"
+    "flagClass": "flag flag-cg"
   },
   {
     "name": "Central African Republic",
@@ -1245,7 +1245,7 @@
     "countryISOCode": "CAF",
     "dialCode": "+236",
     "currency": "XAF",
-    "flagClass": ".flag .flag-cf"
+    "flagClass": "flag flag-cf"
   },
   {
     "name": "Democratic Republic of the Congo",
@@ -1253,7 +1253,7 @@
     "countryISOCode": "COD",
     "dialCode": "+243",
     "currency": "CDF",
-    "flagClass": ".flag .flag-cd"
+    "flagClass": "flag flag-cd"
   },
   {
     "name": "Czech Republic",
@@ -1261,7 +1261,7 @@
     "countryISOCode": "CZE",
     "dialCode": "+420",
     "currency": "CZK",
-    "flagClass": ".flag .flag-cz"
+    "flagClass": "flag flag-cz"
   },
   {
     "name": "Cyprus",
@@ -1269,7 +1269,7 @@
     "countryISOCode": "CYP",
     "dialCode": "+357",
     "currency": "EUR",
-    "flagClass": ".flag .flag-cy"
+    "flagClass": "flag flag-cy"
   },
   {
     "name": "Christmas Island",
@@ -1277,7 +1277,7 @@
     "countryISOCode": "CXR",
     "dialCode": "+61",
     "currency": "AUD",
-    "flagClass": ".flag .flag-cx"
+    "flagClass": "flag flag-cx"
   },
   {
     "name": "Costa Rica",
@@ -1285,7 +1285,7 @@
     "countryISOCode": "CRI",
     "dialCode": "+506",
     "currency": "CRC",
-    "flagClass": ".flag .flag-cr"
+    "flagClass": "flag flag-cr"
   },
   {
     "name": "Curacao",
@@ -1293,7 +1293,7 @@
     "countryISOCode": "CUW",
     "dialCode": "+599",
     "currency": "ANG",
-    "flagClass": ".flag .flag-cw"
+    "flagClass": "flag flag-cw"
   },
   {
     "name": "Cape Verde",
@@ -1301,7 +1301,7 @@
     "countryISOCode": "CPV",
     "dialCode": "+238",
     "currency": "CVE",
-    "flagClass": ".flag .flag-cv"
+    "flagClass": "flag flag-cv"
   },
   {
     "name": "Cuba",
@@ -1309,7 +1309,7 @@
     "countryISOCode": "CUB",
     "dialCode": "+53",
     "currency": "CUP",
-    "flagClass": ".flag .flag-cu"
+    "flagClass": "flag flag-cu"
   },
   {
     "name": "Swaziland",
@@ -1317,7 +1317,7 @@
     "countryISOCode": "SWZ",
     "dialCode": "+268",
     "currency": "SZL",
-    "flagClass": ".flag .flag-sz"
+    "flagClass": "flag flag-sz"
   },
   {
     "name": "Syria",
@@ -1325,7 +1325,7 @@
     "countryISOCode": "SYR",
     "dialCode": "+963",
     "currency": "SYP",
-    "flagClass": ".flag .flag-sy"
+    "flagClass": "flag flag-sy"
   },
   {
     "name": "Sint Maarten",
@@ -1333,7 +1333,7 @@
     "countryISOCode": "SXM",
     "dialCode": "+599",
     "currency": "ANG",
-    "flagClass": ".flag .flag-sx"
+    "flagClass": "flag flag-sx"
   },
   {
     "name": "Kyrgyzstan",
@@ -1341,7 +1341,7 @@
     "countryISOCode": "KGZ",
     "dialCode": "+996",
     "currency": "KGS",
-    "flagClass": ".flag .flag-kg"
+    "flagClass": "flag flag-kg"
   },
   {
     "name": "Kenya",
@@ -1349,7 +1349,7 @@
     "countryISOCode": "KEN",
     "dialCode": "+254",
     "currency": "KES",
-    "flagClass": ".flag .flag-ke"
+    "flagClass": "flag flag-ke"
   },
   {
     "name": "South Sudan",
@@ -1357,7 +1357,7 @@
     "countryISOCode": "SSD",
     "dialCode": "+211",
     "currency": "SSP",
-    "flagClass": ".flag .flag-ss"
+    "flagClass": "flag flag-ss"
   },
   {
     "name": "Suriname",
@@ -1365,7 +1365,7 @@
     "countryISOCode": "SUR",
     "dialCode": "+597",
     "currency": "SRD",
-    "flagClass": ".flag .flag-sr"
+    "flagClass": "flag flag-sr"
   },
   {
     "name": "Kiribati",
@@ -1373,7 +1373,7 @@
     "countryISOCode": "KIR",
     "dialCode": "+686",
     "currency": "AUD",
-    "flagClass": ".flag .flag-ki"
+    "flagClass": "flag flag-ki"
   },
   {
     "name": "Cambodia",
@@ -1381,7 +1381,7 @@
     "countryISOCode": "KHM",
     "dialCode": "+855",
     "currency": "KHR",
-    "flagClass": ".flag .flag-kh"
+    "flagClass": "flag flag-kh"
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -1389,7 +1389,7 @@
     "countryISOCode": "KNA",
     "dialCode": "+1869",
     "currency": "XCD",
-    "flagClass": ".flag .flag-kn"
+    "flagClass": "flag flag-kn"
   },
   {
     "name": "Comoros",
@@ -1397,7 +1397,7 @@
     "countryISOCode": "COM",
     "dialCode": "+269",
     "currency": "KMF",
-    "flagClass": ".flag .flag-km"
+    "flagClass": "flag flag-km"
   },
   {
     "name": "Sao Tome and Principe",
@@ -1405,7 +1405,7 @@
     "countryISOCode": "STP",
     "dialCode": "+239",
     "currency": "STD",
-    "flagClass": ".flag .flag-st"
+    "flagClass": "flag flag-st"
   },
   {
     "name": "Slovakia",
@@ -1413,7 +1413,7 @@
     "countryISOCode": "SVK",
     "dialCode": "+421",
     "currency": "EUR",
-    "flagClass": ".flag .flag-sk"
+    "flagClass": "flag flag-sk"
   },
   {
     "name": "South Korea",
@@ -1421,7 +1421,7 @@
     "countryISOCode": "KOR",
     "dialCode": "+82",
     "currency": "KRW",
-    "flagClass": ".flag .flag-kr"
+    "flagClass": "flag flag-kr"
   },
   {
     "name": "Slovenia",
@@ -1429,7 +1429,7 @@
     "countryISOCode": "SVN",
     "dialCode": "+386",
     "currency": "EUR",
-    "flagClass": ".flag .flag-si"
+    "flagClass": "flag flag-si"
   },
   {
     "name": "North Korea",
@@ -1437,7 +1437,7 @@
     "countryISOCode": "PRK",
     "dialCode": "+850",
     "currency": "KPW",
-    "flagClass": ".flag .flag-kp"
+    "flagClass": "flag flag-kp"
   },
   {
     "name": "Kuwait",
@@ -1445,7 +1445,7 @@
     "countryISOCode": "KWT",
     "dialCode": "+965",
     "currency": "KWD",
-    "flagClass": ".flag .flag-kw"
+    "flagClass": "flag flag-kw"
   },
   {
     "name": "Senegal",
@@ -1453,7 +1453,7 @@
     "countryISOCode": "SEN",
     "dialCode": "+221",
     "currency": "XOF",
-    "flagClass": ".flag .flag-sn"
+    "flagClass": "flag flag-sn"
   },
   {
     "name": "San Marino",
@@ -1461,7 +1461,7 @@
     "countryISOCode": "SMR",
     "dialCode": "+378",
     "currency": "EUR",
-    "flagClass": ".flag .flag-sm"
+    "flagClass": "flag flag-sm"
   },
   {
     "name": "Sierra Leone",
@@ -1469,7 +1469,7 @@
     "countryISOCode": "SLE",
     "dialCode": "+232",
     "currency": "SLL",
-    "flagClass": ".flag .flag-sl"
+    "flagClass": "flag flag-sl"
   },
   {
     "name": "Seychelles",
@@ -1477,7 +1477,7 @@
     "countryISOCode": "SYC",
     "dialCode": "+248",
     "currency": "SCR",
-    "flagClass": ".flag .flag-sc"
+    "flagClass": "flag flag-sc"
   },
   {
     "name": "Kazakhstan",
@@ -1485,7 +1485,7 @@
     "countryISOCode": "KAZ",
     "dialCode": "+7",
     "currency": "KZT",
-    "flagClass": ".flag .flag-kz"
+    "flagClass": "flag flag-kz"
   },
   {
     "name": "Cayman Islands",
@@ -1493,7 +1493,7 @@
     "countryISOCode": "CYM",
     "dialCode": "+1345",
     "currency": "KYD",
-    "flagClass": ".flag .flag-ky"
+    "flagClass": "flag flag-ky"
   },
   {
     "name": "Singapore",
@@ -1501,7 +1501,7 @@
     "countryISOCode": "SGP",
     "dialCode": "+65",
     "currency": "SGD",
-    "flagClass": ".flag .flag-sg"
+    "flagClass": "flag flag-sg"
   },
   {
     "name": "Sweden",
@@ -1509,7 +1509,7 @@
     "countryISOCode": "SWE",
     "dialCode": "+46",
     "currency": "SEK",
-    "flagClass": ".flag .flag-se"
+    "flagClass": "flag flag-se"
   },
   {
     "name": "Sudan",
@@ -1517,7 +1517,7 @@
     "countryISOCode": "SDN",
     "dialCode": "+249",
     "currency": "SDG",
-    "flagClass": ".flag .flag-sd"
+    "flagClass": "flag flag-sd"
   },
   {
     "name": "Dominican Republic",
@@ -1525,7 +1525,7 @@
     "countryISOCode": "DOM",
     "dialCode": "+1849",
     "currency": "DOP",
-    "flagClass": ".flag .flag-do"
+    "flagClass": "flag flag-do"
   },
   {
     "name": "Dominica",
@@ -1533,7 +1533,7 @@
     "countryISOCode": "DMA",
     "dialCode": "+1767",
     "currency": "XCD",
-    "flagClass": ".flag .flag-dm"
+    "flagClass": "flag flag-dm"
   },
   {
     "name": "Djibouti",
@@ -1541,7 +1541,7 @@
     "countryISOCode": "DJI",
     "dialCode": "+253",
     "currency": "DJF",
-    "flagClass": ".flag .flag-dj"
+    "flagClass": "flag flag-dj"
   },
   {
     "name": "Denmark",
@@ -1549,7 +1549,7 @@
     "countryISOCode": "DNK",
     "dialCode": "+45",
     "currency": "DKK",
-    "flagClass": ".flag .flag-dk"
+    "flagClass": "flag flag-dk"
   },
   {
     "name": "British Virgin Islands",
@@ -1557,7 +1557,7 @@
     "countryISOCode": "VGB",
     "dialCode": "+1284",
     "currency": "USD",
-    "flagClass": ".flag .flag-vg"
+    "flagClass": "flag flag-vg"
   },
   {
     "name": "Germany",
@@ -1565,7 +1565,7 @@
     "countryISOCode": "DEU",
     "dialCode": "+49",
     "currency": "EUR",
-    "flagClass": ".flag .flag-de"
+    "flagClass": "flag flag-de"
   },
   {
     "name": "Yemen",
@@ -1573,7 +1573,7 @@
     "countryISOCode": "YEM",
     "dialCode": "+967",
     "currency": "YER",
-    "flagClass": ".flag .flag-ye"
+    "flagClass": "flag flag-ye"
   },
   {
     "name": "Algeria",
@@ -1581,7 +1581,7 @@
     "countryISOCode": "DZA",
     "dialCode": "+213",
     "currency": "DZD",
-    "flagClass": ".flag .flag-dz"
+    "flagClass": "flag flag-dz"
   },
   {
     "name": "United States",
@@ -1589,7 +1589,7 @@
     "countryISOCode": "USA",
     "dialCode": "+1",
     "currency": "USD",
-    "flagClass": ".flag .flag-us"
+    "flagClass": "flag flag-us"
   },
   {
     "name": "Uruguay",
@@ -1597,7 +1597,7 @@
     "countryISOCode": "URY",
     "dialCode": "+598",
     "currency": "UYU",
-    "flagClass": ".flag .flag-uy"
+    "flagClass": "flag flag-uy"
   },
   {
     "name": "Mayotte",
@@ -1605,7 +1605,7 @@
     "countryISOCode": "MYT",
     "dialCode": "+262",
     "currency": "EUR",
-    "flagClass": ".flag .flag-yt"
+    "flagClass": "flag flag-yt"
   },
   {
     "name": "United States Minor Outlying Islands",
@@ -1613,7 +1613,7 @@
     "countryISOCode": "UMI",
     "dialCode": "+1",
     "currency": "USD",
-    "flagClass": ".flag .flag-um"
+    "flagClass": "flag flag-um"
   },
   {
     "name": "Lebanon",
@@ -1621,7 +1621,7 @@
     "countryISOCode": "LBN",
     "dialCode": "+961",
     "currency": "LBP",
-    "flagClass": ".flag .flag-lb"
+    "flagClass": "flag flag-lb"
   },
   {
     "name": "Saint Lucia",
@@ -1629,7 +1629,7 @@
     "countryISOCode": "LCA",
     "dialCode": "+1758",
     "currency": "XCD",
-    "flagClass": ".flag .flag-lc"
+    "flagClass": "flag flag-lc"
   },
   {
     "name": "Laos",
@@ -1637,7 +1637,7 @@
     "countryISOCode": "LAO",
     "dialCode": "+856",
     "currency": "LAK",
-    "flagClass": ".flag .flag-la"
+    "flagClass": "flag flag-la"
   },
   {
     "name": "Tuvalu",
@@ -1645,7 +1645,7 @@
     "countryISOCode": "TUV",
     "dialCode": "+688",
     "currency": "AUD",
-    "flagClass": ".flag .flag-tv"
+    "flagClass": "flag flag-tv"
   },
   {
     "name": "Taiwan",
@@ -1653,7 +1653,7 @@
     "countryISOCode": "TWN",
     "dialCode": "+886",
     "currency": "TWD",
-    "flagClass": ".flag .flag-tw"
+    "flagClass": "flag flag-tw"
   },
   {
     "name": "Trinidad and Tobago",
@@ -1661,7 +1661,7 @@
     "countryISOCode": "TTO",
     "dialCode": "+1868",
     "currency": "TTD",
-    "flagClass": ".flag .flag-tt"
+    "flagClass": "flag flag-tt"
   },
   {
     "name": "Turkey",
@@ -1669,7 +1669,7 @@
     "countryISOCode": "TUR",
     "dialCode": "+90",
     "currency": "TRY",
-    "flagClass": ".flag .flag-tr"
+    "flagClass": "flag flag-tr"
   },
   {
     "name": "Sri Lanka",
@@ -1677,7 +1677,7 @@
     "countryISOCode": "LKA",
     "dialCode": "+94",
     "currency": "LKR",
-    "flagClass": ".flag .flag-lk"
+    "flagClass": "flag flag-lk"
   },
   {
     "name": "Liechtenstein",
@@ -1685,7 +1685,7 @@
     "countryISOCode": "LIE",
     "dialCode": "+423",
     "currency": "CHF",
-    "flagClass": ".flag .flag-li"
+    "flagClass": "flag flag-li"
   },
   {
     "name": "Latvia",
@@ -1693,7 +1693,7 @@
     "countryISOCode": "LVA",
     "dialCode": "+371",
     "currency": "EUR",
-    "flagClass": ".flag .flag-lv"
+    "flagClass": "flag flag-lv"
   },
   {
     "name": "Tonga",
@@ -1701,7 +1701,7 @@
     "countryISOCode": "TON",
     "dialCode": "+676",
     "currency": "TOP",
-    "flagClass": ".flag .flag-to"
+    "flagClass": "flag flag-to"
   },
   {
     "name": "Lithuania",
@@ -1709,7 +1709,7 @@
     "countryISOCode": "LTU",
     "dialCode": "+370",
     "currency": "LTL",
-    "flagClass": ".flag .flag-lt"
+    "flagClass": "flag flag-lt"
   },
   {
     "name": "Luxembourg",
@@ -1717,7 +1717,7 @@
     "countryISOCode": "LUX",
     "dialCode": "+352",
     "currency": "EUR",
-    "flagClass": ".flag .flag-lu"
+    "flagClass": "flag flag-lu"
   },
   {
     "name": "Liberia",
@@ -1725,7 +1725,7 @@
     "countryISOCode": "LBR",
     "dialCode": "+231",
     "currency": "LRD",
-    "flagClass": ".flag .flag-lr"
+    "flagClass": "flag flag-lr"
   },
   {
     "name": "Lesotho",
@@ -1733,7 +1733,7 @@
     "countryISOCode": "LSO",
     "dialCode": "+266",
     "currency": "LSL",
-    "flagClass": ".flag .flag-ls"
+    "flagClass": "flag flag-ls"
   },
   {
     "name": "Thailand",
@@ -1741,7 +1741,7 @@
     "countryISOCode": "THA",
     "dialCode": "+66",
     "currency": "THB",
-    "flagClass": ".flag .flag-th"
+    "flagClass": "flag flag-th"
   },
   {
     "name": "French Southern Territories",
@@ -1749,7 +1749,7 @@
     "countryISOCode": "ATF",
     "dialCode": "+",
     "currency": "EUR",
-    "flagClass": ".flag .flag-tf"
+    "flagClass": "flag flag-tf"
   },
   {
     "name": "Togo",
@@ -1757,7 +1757,7 @@
     "countryISOCode": "TGO",
     "dialCode": "+228",
     "currency": "XOF",
-    "flagClass": ".flag .flag-tg"
+    "flagClass": "flag flag-tg"
   },
   {
     "name": "Chad",
@@ -1765,7 +1765,7 @@
     "countryISOCode": "TCD",
     "dialCode": "+235",
     "currency": "XAF",
-    "flagClass": ".flag .flag-td"
+    "flagClass": "flag flag-td"
   },
   {
     "name": "Turks and Caicos Islands",
@@ -1773,7 +1773,7 @@
     "countryISOCode": "TCA",
     "dialCode": "+1649",
     "currency": "USD",
-    "flagClass": ".flag .flag-tc"
+    "flagClass": "flag flag-tc"
   },
   {
     "name": "Libya",
@@ -1781,7 +1781,7 @@
     "countryISOCode": "LBY",
     "dialCode": "+218",
     "currency": "LYD",
-    "flagClass": ".flag .flag-ly"
+    "flagClass": "flag flag-ly"
   },
   {
     "name": "Vatican",
@@ -1789,7 +1789,7 @@
     "countryISOCode": "VAT",
     "dialCode": "+379",
     "currency": "EUR",
-    "flagClass": ".flag .flag-va"
+    "flagClass": "flag flag-va"
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -1797,7 +1797,7 @@
     "countryISOCode": "VCT",
     "dialCode": "+1784",
     "currency": "XCD",
-    "flagClass": ".flag .flag-vc"
+    "flagClass": "flag flag-vc"
   },
   {
     "name": "United Arab Emirates",
@@ -1805,7 +1805,7 @@
     "countryISOCode": "ARE",
     "dialCode": "+971",
     "currency": "AED",
-    "flagClass": ".flag .flag-ae"
+    "flagClass": "flag flag-ae"
   },
   {
     "name": "Andorra",
@@ -1813,7 +1813,7 @@
     "countryISOCode": "AND",
     "dialCode": "+376",
     "currency": "EUR",
-    "flagClass": ".flag .flag-ad"
+    "flagClass": "flag flag-ad"
   },
   {
     "name": "Antigua and Barbuda",
@@ -1821,7 +1821,7 @@
     "countryISOCode": "ATG",
     "dialCode": "+1268",
     "currency": "XCD",
-    "flagClass": ".flag .flag-ag"
+    "flagClass": "flag flag-ag"
   },
   {
     "name": "Afghanistan",
@@ -1829,7 +1829,7 @@
     "countryISOCode": "AFG",
     "dialCode": "+93",
     "currency": "AFN",
-    "flagClass": ".flag .flag-af"
+    "flagClass": "flag flag-af"
   },
   {
     "name": "Anguilla",
@@ -1837,7 +1837,7 @@
     "countryISOCode": "AIA",
     "dialCode": "+1264",
     "currency": "XCD",
-    "flagClass": ".flag .flag-ai"
+    "flagClass": "flag flag-ai"
   },
   {
     "name": "U.S. Virgin Islands",
@@ -1845,7 +1845,7 @@
     "countryISOCode": "VIR",
     "dialCode": "+1340",
     "currency": "USD",
-    "flagClass": ".flag .flag-vi"
+    "flagClass": "flag flag-vi"
   },
   {
     "name": "Iceland",
@@ -1853,7 +1853,7 @@
     "countryISOCode": "ISL",
     "dialCode": "+354",
     "currency": "ISK",
-    "flagClass": ".flag .flag-is"
+    "flagClass": "flag flag-is"
   },
   {
     "name": "Iran",
@@ -1861,7 +1861,7 @@
     "countryISOCode": "IRN",
     "dialCode": "+98",
     "currency": "IRR",
-    "flagClass": ".flag .flag-ir"
+    "flagClass": "flag flag-ir"
   },
   {
     "name": "Armenia",
@@ -1869,7 +1869,7 @@
     "countryISOCode": "ARM",
     "dialCode": "+374",
     "currency": "AMD",
-    "flagClass": ".flag .flag-am"
+    "flagClass": "flag flag-am"
   },
   {
     "name": "Albania",
@@ -1877,7 +1877,7 @@
     "countryISOCode": "ALB",
     "dialCode": "+355",
     "currency": "ALL",
-    "flagClass": ".flag .flag-al"
+    "flagClass": "flag flag-al"
   },
   {
     "name": "Angola",
@@ -1885,7 +1885,7 @@
     "countryISOCode": "AGO",
     "dialCode": "+244",
     "currency": "AOA",
-    "flagClass": ".flag .flag-ao"
+    "flagClass": "flag flag-ao"
   },
   {
     "name": "Antarctica",
@@ -1893,7 +1893,7 @@
     "countryISOCode": "ATA",
     "dialCode": "+",
     "currency": "",
-    "flagClass": ".flag .flag-aq"
+    "flagClass": "flag flag-aq"
   },
   {
     "name": "American Samoa",
@@ -1901,7 +1901,7 @@
     "countryISOCode": "ASM",
     "dialCode": "+1684",
     "currency": "USD",
-    "flagClass": ".flag .flag-as"
+    "flagClass": "flag flag-as"
   },
   {
     "name": "Argentina",
@@ -1909,7 +1909,7 @@
     "countryISOCode": "ARG",
     "dialCode": "+54",
     "currency": "ARS",
-    "flagClass": ".flag .flag-ar"
+    "flagClass": "flag flag-ar"
   },
   {
     "name": "Australia",
@@ -1917,7 +1917,7 @@
     "countryISOCode": "AUS",
     "dialCode": "+61",
     "currency": "AUD",
-    "flagClass": ".flag .flag-au"
+    "flagClass": "flag flag-au"
   },
   {
     "name": "Austria",
@@ -1925,7 +1925,7 @@
     "countryISOCode": "AUT",
     "dialCode": "+43",
     "currency": "EUR",
-    "flagClass": ".flag .flag-at"
+    "flagClass": "flag flag-at"
   },
   {
     "name": "Aruba",
@@ -1933,7 +1933,7 @@
     "countryISOCode": "ABW",
     "dialCode": "+297",
     "currency": "AWG",
-    "flagClass": ".flag .flag-aw"
+    "flagClass": "flag flag-aw"
   },
   {
     "name": "India",
@@ -1941,7 +1941,7 @@
     "countryISOCode": "IND",
     "dialCode": "+91",
     "currency": "INR",
-    "flagClass": ".flag .flag-in"
+    "flagClass": "flag flag-in"
   },
   {
     "name": "Aland Islands",
@@ -1949,7 +1949,7 @@
     "countryISOCode": "ALA",
     "dialCode": "+358",
     "currency": "EUR",
-    "flagClass": ".flag .flag-ax"
+    "flagClass": "flag flag-ax"
   },
   {
     "name": "Azerbaijan",
@@ -1957,7 +1957,7 @@
     "countryISOCode": "AZE",
     "dialCode": "+994",
     "currency": "AZN",
-    "flagClass": ".flag .flag-az"
+    "flagClass": "flag flag-az"
   },
   {
     "name": "Ireland",
@@ -1965,7 +1965,7 @@
     "countryISOCode": "IRL",
     "dialCode": "+353",
     "currency": "EUR",
-    "flagClass": ".flag .flag-ie"
+    "flagClass": "flag flag-ie"
   },
   {
     "name": "Indonesia",
@@ -1973,7 +1973,7 @@
     "countryISOCode": "IDN",
     "dialCode": "+62",
     "currency": "IDR",
-    "flagClass": ".flag .flag-id"
+    "flagClass": "flag flag-id"
   },
   {
     "name": "Ukraine",
@@ -1981,7 +1981,7 @@
     "countryISOCode": "UKR",
     "dialCode": "+380",
     "currency": "UAH",
-    "flagClass": ".flag .flag-ua"
+    "flagClass": "flag flag-ua"
   },
   {
     "name": "Qatar",
@@ -1989,7 +1989,7 @@
     "countryISOCode": "QAT",
     "dialCode": "+974",
     "currency": "QAR",
-    "flagClass": ".flag .flag-qa"
+    "flagClass": "flag flag-qa"
   },
   {
     "name": "Mozambique",
@@ -1997,6 +1997,6 @@
     "countryISOCode": "MOZ",
     "dialCode": "+258",
     "currency": "MZN",
-    "flagClass": ".flag .flag-mz"
+    "flagClass": "flag flag-mz"
   }
 ]
