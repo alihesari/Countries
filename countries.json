@@ -131,7 +131,7 @@
     "name": "Bouvet Island",
     "countryCode": "BV",
     "countryISOCode": "BVT",
-    "dialCode": "+",
+    "dialCode": "+55",
     "currency": "NOK",
     "flagClass": "flag flag-bv"
   },
@@ -299,7 +299,7 @@
     "name": "South Georgia and the South Sandwich Islands",
     "countryCode": "GS",
     "countryISOCode": "SGS",
-    "dialCode": "+",
+    "dialCode": "+500",
     "currency": "GBP",
     "flagClass": "flag flag-gs"
   },
@@ -1163,7 +1163,7 @@
     "name": "Kosovo",
     "countryCode": "XK",
     "countryISOCode": "XKX",
-    "dialCode": "+",
+    "dialCode": "+383",
     "currency": "EUR",
     "flagClass": "flag flag-xk"
   },
@@ -1747,7 +1747,7 @@
     "name": "French Southern Territories",
     "countryCode": "TF",
     "countryISOCode": "ATF",
-    "dialCode": "+",
+    "dialCode": "+262",
     "currency": "EUR",
     "flagClass": "flag flag-tf"
   },
@@ -1891,7 +1891,7 @@
     "name": "Antarctica",
     "countryCode": "AQ",
     "countryISOCode": "ATA",
-    "dialCode": "+",
+    "dialCode": "+672",
     "currency": "",
     "flagClass": "flag flag-aq"
   },
